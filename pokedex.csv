@@ -1,0 +1,1035 @@
+,#,Pokémon,Type,HP,ATK,DEF,Sp.ATK,Sp.DEF,SPD,Total,URLs
+0,001,Bulbasaur,"['Grass', 'Poison']",45,49,49,65,65,45,318,https://img.pokemondb.net/sprites/sword-shield/icon/bulbasaur.png
+1,002,Ivysaur,"['Grass', 'Poison']",60,62,63,80,80,60,405,https://img.pokemondb.net/sprites/sword-shield/icon/ivysaur.png
+2,003,Venusaur,"['Grass', 'Poison']",80,82,83,100,100,80,525,https://img.pokemondb.net/sprites/sword-shield/icon/venusaur.png
+3,003,Mega Venusaur,"['Grass', 'Poison']",80,100,123,122,120,80,625,https://img.pokemondb.net/sprites/sword-shield/icon/venusaur-mega.png
+4,004,Charmander,['Fire'],39,52,43,60,50,65,309,https://img.pokemondb.net/sprites/sword-shield/icon/charmander.png
+5,005,Charmeleon,['Fire'],58,64,58,80,65,80,405,https://img.pokemondb.net/sprites/sword-shield/icon/charmeleon.png
+6,006,Charizard,"['Fire', 'Flying']",78,84,78,109,85,100,534,https://img.pokemondb.net/sprites/sword-shield/icon/charizard.png
+7,006,Mega Charizard X,"['Fire', 'Dragon']",78,130,111,130,85,100,634,https://img.pokemondb.net/sprites/sword-shield/icon/charizard-mega-x.png
+8,006,Mega Charizard Y,"['Fire', 'Flying']",78,104,78,159,115,100,634,https://img.pokemondb.net/sprites/sword-shield/icon/charizard-mega-y.png
+9,007,Squirtle,['Water'],44,48,65,50,64,43,314,https://img.pokemondb.net/sprites/sword-shield/icon/squirtle.png
+10,008,Wartortle,['Water'],59,63,80,65,80,58,405,https://img.pokemondb.net/sprites/sword-shield/icon/wartortle.png
+11,009,Blastoise,['Water'],79,83,100,85,105,78,530,https://img.pokemondb.net/sprites/sword-shield/icon/blastoise.png
+12,009,Mega Blastoise,['Water'],79,103,120,135,115,78,630,https://img.pokemondb.net/sprites/sword-shield/icon/blastoise-mega.png
+13,010,Caterpie,['Bug'],45,30,35,20,20,45,195,https://img.pokemondb.net/sprites/sword-shield/icon/caterpie.png
+14,011,Metapod,['Bug'],50,20,55,25,25,30,205,https://img.pokemondb.net/sprites/sword-shield/icon/metapod.png
+15,012,Butterfree,"['Bug', 'Flying']",60,45,50,90,80,70,395,https://img.pokemondb.net/sprites/sword-shield/icon/butterfree.png
+16,013,Weedle,"['Bug', 'Poison']",40,35,30,20,20,50,195,https://img.pokemondb.net/sprites/sword-shield/icon/weedle.png
+17,014,Kakuna,"['Bug', 'Poison']",45,25,50,25,25,35,205,https://img.pokemondb.net/sprites/sword-shield/icon/kakuna.png
+18,015,Beedrill,"['Bug', 'Poison']",65,90,40,45,80,75,395,https://img.pokemondb.net/sprites/sword-shield/icon/beedrill.png
+19,015,Mega Beedrill,"['Bug', 'Poison']",65,150,40,15,80,145,495,https://img.pokemondb.net/sprites/sword-shield/icon/beedrill-mega.png
+20,016,Pidgey,"['Normal', 'Flying']",40,45,40,35,35,56,251,https://img.pokemondb.net/sprites/sword-shield/icon/pidgey.png
+21,017,Pidgeotto,"['Normal', 'Flying']",63,60,55,50,50,71,349,https://img.pokemondb.net/sprites/sword-shield/icon/pidgeotto.png
+22,018,Pidgeot,"['Normal', 'Flying']",83,80,75,70,70,101,479,https://img.pokemondb.net/sprites/sword-shield/icon/pidgeot.png
+23,018,Mega Pidgeot,"['Normal', 'Flying']",83,80,80,135,80,121,579,https://img.pokemondb.net/sprites/sword-shield/icon/pidgeot-mega.png
+24,019,Rattata,['Normal'],30,56,35,25,35,72,253,https://img.pokemondb.net/sprites/sword-shield/icon/rattata.png
+25,019,Alolan Rattata,"['Dark', 'Normal']",30,56,35,25,35,72,253,https://img.pokemondb.net/sprites/sword-shield/icon/rattata-alolan.png
+26,020,Raticate,['Normal'],55,81,60,50,70,97,413,https://img.pokemondb.net/sprites/sword-shield/icon/raticate.png
+27,020,Alolan Raticate,"['Dark', 'Normal']",75,71,70,40,80,77,413,https://img.pokemondb.net/sprites/sword-shield/icon/raticate-alolan.png
+28,021,Spearow,"['Normal', 'Flying']",40,60,30,31,31,70,262,https://img.pokemondb.net/sprites/sword-shield/icon/spearow.png
+29,022,Fearow,"['Normal', 'Flying']",65,90,65,61,61,100,442,https://img.pokemondb.net/sprites/sword-shield/icon/fearow.png
+30,023,Ekans,['Poison'],35,60,44,40,54,55,288,https://img.pokemondb.net/sprites/sword-shield/icon/ekans.png
+31,024,Arbok,['Poison'],60,95,69,65,79,80,448,https://img.pokemondb.net/sprites/sword-shield/icon/arbok.png
+32,025,Pikachu,['Electric'],35,55,40,50,50,90,320,https://img.pokemondb.net/sprites/sword-shield/icon/pikachu.png
+33,025,Partner Pikachu,['Electric'],45,80,50,75,60,120,430,https://img.pokemondb.net/sprites/sword-shield/icon/pikachu-lets-go.png
+34,026,Raichu,['Electric'],60,90,55,90,80,110,485,https://img.pokemondb.net/sprites/sword-shield/icon/raichu.png
+35,026,Alolan Raichu,"['Electric', 'Psychic']",60,85,50,95,85,110,485,https://img.pokemondb.net/sprites/sword-shield/icon/raichu-alolan.png
+36,027,Sandshrew,['Ground'],50,75,85,20,30,40,300,https://img.pokemondb.net/sprites/sword-shield/icon/sandshrew.png
+37,027,Alolan Sandshrew,"['Ice', 'Steel']",50,75,90,10,35,40,300,https://img.pokemondb.net/sprites/sword-shield/icon/sandshrew-alolan.png
+38,028,Sandslash,['Ground'],75,100,110,45,55,65,450,https://img.pokemondb.net/sprites/sword-shield/icon/sandslash.png
+39,028,Alolan Sandslash,"['Ice', 'Steel']",75,100,120,25,65,65,450,https://img.pokemondb.net/sprites/sword-shield/icon/sandslash-alolan.png
+40,029,Nidoran♀,['Poison'],55,47,52,40,40,41,275,https://img.pokemondb.net/sprites/sword-shield/icon/nidoran-f.png
+41,030,Nidorina,['Poison'],70,62,67,55,55,56,365,https://img.pokemondb.net/sprites/sword-shield/icon/nidorina.png
+42,031,Nidoqueen,"['Poison', 'Ground']",90,92,87,75,85,76,505,https://img.pokemondb.net/sprites/sword-shield/icon/nidoqueen.png
+43,032,Nidoran♂,['Poison'],46,57,40,40,40,50,273,https://img.pokemondb.net/sprites/sword-shield/icon/nidoran-m.png
+44,033,Nidorino,['Poison'],61,72,57,55,55,65,365,https://img.pokemondb.net/sprites/sword-shield/icon/nidorino.png
+45,034,Nidoking,"['Poison', 'Ground']",81,102,77,85,75,85,505,https://img.pokemondb.net/sprites/sword-shield/icon/nidoking.png
+46,035,Clefairy,['Fairy'],70,45,48,60,65,35,323,https://img.pokemondb.net/sprites/sword-shield/icon/clefairy.png
+47,036,Clefable,['Fairy'],95,70,73,95,90,60,483,https://img.pokemondb.net/sprites/sword-shield/icon/clefable.png
+48,037,Vulpix,['Fire'],38,41,40,50,65,65,299,https://img.pokemondb.net/sprites/sword-shield/icon/vulpix.png
+49,037,Alolan Vulpix,['Ice'],38,41,40,50,65,65,299,https://img.pokemondb.net/sprites/sword-shield/icon/vulpix-alolan.png
+50,038,Ninetales,['Fire'],73,76,75,81,100,100,505,https://img.pokemondb.net/sprites/sword-shield/icon/ninetales.png
+51,038,Alolan Ninetales,"['Ice', 'Fairy']",73,67,75,81,100,109,505,https://img.pokemondb.net/sprites/sword-shield/icon/ninetales-alolan.png
+52,039,Jigglypuff,"['Normal', 'Fairy']",115,45,20,45,25,20,270,https://img.pokemondb.net/sprites/sword-shield/icon/jigglypuff.png
+53,040,Wigglytuff,"['Normal', 'Fairy']",140,70,45,85,50,45,435,https://img.pokemondb.net/sprites/sword-shield/icon/wigglytuff.png
+54,041,Zubat,"['Poison', 'Flying']",40,45,35,30,40,55,245,https://img.pokemondb.net/sprites/sword-shield/icon/zubat.png
+55,042,Golbat,"['Poison', 'Flying']",75,80,70,65,75,90,455,https://img.pokemondb.net/sprites/sword-shield/icon/golbat.png
+56,043,Oddish,"['Grass', 'Poison']",45,50,55,75,65,30,320,https://img.pokemondb.net/sprites/sword-shield/icon/oddish.png
+57,044,Gloom,"['Grass', 'Poison']",60,65,70,85,75,40,395,https://img.pokemondb.net/sprites/sword-shield/icon/gloom.png
+58,045,Vileplume,"['Grass', 'Poison']",75,80,85,110,90,50,490,https://img.pokemondb.net/sprites/sword-shield/icon/vileplume.png
+59,046,Paras,"['Bug', 'Grass']",35,70,55,45,55,25,285,https://img.pokemondb.net/sprites/sword-shield/icon/paras.png
+60,047,Parasect,"['Bug', 'Grass']",60,95,80,60,80,30,405,https://img.pokemondb.net/sprites/sword-shield/icon/parasect.png
+61,048,Venonat,"['Bug', 'Poison']",60,55,50,40,55,45,305,https://img.pokemondb.net/sprites/sword-shield/icon/venonat.png
+62,049,Venomoth,"['Bug', 'Poison']",70,65,60,90,75,90,450,https://img.pokemondb.net/sprites/sword-shield/icon/venomoth.png
+63,050,Diglett,['Ground'],10,55,25,35,45,95,265,https://img.pokemondb.net/sprites/sword-shield/icon/diglett.png
+64,050,Alolan Diglett,"['Ground', 'Steel']",10,55,30,35,45,90,265,https://img.pokemondb.net/sprites/sword-shield/icon/diglett-alolan.png
+65,051,Dugtrio,['Ground'],35,100,50,50,70,120,425,https://img.pokemondb.net/sprites/sword-shield/icon/dugtrio.png
+66,051,Alolan Dugtrio,"['Ground', 'Steel']",35,100,60,50,70,110,425,https://img.pokemondb.net/sprites/sword-shield/icon/dugtrio-alolan.png
+67,052,Meowth,['Normal'],40,45,35,40,40,90,290,https://img.pokemondb.net/sprites/sword-shield/icon/meowth.png
+68,052,Alolan Meowth,['Dark'],40,35,35,50,40,90,290,https://img.pokemondb.net/sprites/sword-shield/icon/meowth-alolan.png
+69,052,Galarian Meowth,['Steel'],50,65,55,40,40,40,290,https://img.pokemondb.net/sprites/sword-shield/icon/meowth-galarian.png
+70,053,Persian,['Normal'],65,70,60,65,65,115,440,https://img.pokemondb.net/sprites/sword-shield/icon/persian.png
+71,053,Alolan Persian,['Dark'],65,60,60,75,65,115,440,https://img.pokemondb.net/sprites/sword-shield/icon/persian-alolan.png
+72,054,Psyduck,['Water'],50,52,48,65,50,55,320,https://img.pokemondb.net/sprites/sword-shield/icon/psyduck.png
+73,055,Golduck,['Water'],80,82,78,95,80,85,500,https://img.pokemondb.net/sprites/sword-shield/icon/golduck.png
+74,056,Mankey,['Fighting'],40,80,35,35,45,70,305,https://img.pokemondb.net/sprites/sword-shield/icon/mankey.png
+75,057,Primeape,['Fighting'],65,105,60,60,70,95,455,https://img.pokemondb.net/sprites/sword-shield/icon/primeape.png
+76,058,Growlithe,['Fire'],55,70,45,70,50,60,350,https://img.pokemondb.net/sprites/sword-shield/icon/growlithe.png
+77,059,Arcanine,['Fire'],90,110,80,100,80,95,555,https://img.pokemondb.net/sprites/sword-shield/icon/arcanine.png
+78,060,Poliwag,['Water'],40,50,40,40,40,90,300,https://img.pokemondb.net/sprites/sword-shield/icon/poliwag.png
+79,061,Poliwhirl,['Water'],65,65,65,50,50,90,385,https://img.pokemondb.net/sprites/sword-shield/icon/poliwhirl.png
+80,062,Poliwrath,"['Water', 'Fighting']",90,95,95,70,90,70,510,https://img.pokemondb.net/sprites/sword-shield/icon/poliwrath.png
+81,063,Abra,['Psychic'],25,20,15,105,55,90,310,https://img.pokemondb.net/sprites/sword-shield/icon/abra.png
+82,064,Kadabra,['Psychic'],40,35,30,120,70,105,400,https://img.pokemondb.net/sprites/sword-shield/icon/kadabra.png
+83,065,Alakazam,['Psychic'],55,50,45,135,95,120,500,https://img.pokemondb.net/sprites/sword-shield/icon/alakazam.png
+84,065,Mega Alakazam,['Psychic'],55,50,65,175,105,150,600,https://img.pokemondb.net/sprites/sword-shield/icon/alakazam-mega.png
+85,066,Machop,['Fighting'],70,80,50,35,35,35,305,https://img.pokemondb.net/sprites/sword-shield/icon/machop.png
+86,067,Machoke,['Fighting'],80,100,70,50,60,45,405,https://img.pokemondb.net/sprites/sword-shield/icon/machoke.png
+87,068,Machamp,['Fighting'],90,130,80,65,85,55,505,https://img.pokemondb.net/sprites/sword-shield/icon/machamp.png
+88,069,Bellsprout,"['Grass', 'Poison']",50,75,35,70,30,40,300,https://img.pokemondb.net/sprites/sword-shield/icon/bellsprout.png
+89,070,Weepinbell,"['Grass', 'Poison']",65,90,50,85,45,55,390,https://img.pokemondb.net/sprites/sword-shield/icon/weepinbell.png
+90,071,Victreebel,"['Grass', 'Poison']",80,105,65,100,70,70,490,https://img.pokemondb.net/sprites/sword-shield/icon/victreebel.png
+91,072,Tentacool,"['Water', 'Poison']",40,40,35,50,100,70,335,https://img.pokemondb.net/sprites/sword-shield/icon/tentacool.png
+92,073,Tentacruel,"['Water', 'Poison']",80,70,65,80,120,100,515,https://img.pokemondb.net/sprites/sword-shield/icon/tentacruel.png
+93,074,Geodude,"['Rock', 'Ground']",40,80,100,30,30,20,300,https://img.pokemondb.net/sprites/sword-shield/icon/geodude.png
+94,074,Alolan Geodude,"['Rock', 'Electric']",40,80,100,30,30,20,300,https://img.pokemondb.net/sprites/sword-shield/icon/geodude-alolan.png
+95,075,Graveler,"['Rock', 'Ground']",55,95,115,45,45,35,390,https://img.pokemondb.net/sprites/sword-shield/icon/graveler.png
+96,075,Alolan Graveler,"['Rock', 'Electric']",55,95,115,45,45,35,390,https://img.pokemondb.net/sprites/sword-shield/icon/graveler-alolan.png
+97,076,Golem,"['Rock', 'Ground']",80,120,130,55,65,45,495,https://img.pokemondb.net/sprites/sword-shield/icon/golem.png
+98,076,Alolan Golem,"['Rock', 'Electric']",80,120,130,55,65,45,495,https://img.pokemondb.net/sprites/sword-shield/icon/golem-alolan.png
+99,077,Ponyta,['Fire'],50,85,55,65,65,90,410,https://img.pokemondb.net/sprites/sword-shield/icon/ponyta.png
+100,077,Galarian Ponyta,['Psychic'],50,85,55,65,65,90,410,https://img.pokemondb.net/sprites/sword-shield/icon/ponyta-galarian.png
+101,078,Rapidash,['Fire'],65,100,70,80,80,105,500,https://img.pokemondb.net/sprites/sword-shield/icon/rapidash.png
+102,078,Galarian Rapidash,"['Psychic', 'Fairy']",65,100,70,80,80,105,500,https://img.pokemondb.net/sprites/sword-shield/icon/rapidash-galarian.png
+103,079,Slowpoke,"['Water', 'Psychic']",90,65,65,40,40,15,315,https://img.pokemondb.net/sprites/sword-shield/icon/slowpoke.png
+104,079,Galarian Slowpoke,['Psychic'],90,65,65,40,40,15,315,https://img.pokemondb.net/s.png
+105,080,Slowbro,"['Water', 'Psychic']",95,75,110,100,80,30,490,https://img.pokemondb.net/sprites/sword-shield/icon/slowbro.png
+106,080,Mega Slowbro,"['Water', 'Psychic']",95,75,180,130,80,30,590,https://img.pokemondb.net/sprites/sword-shield/icon/slowbro-mega.png
+107,080,Galarian Slowbro,"['Poison', 'Psychic']",95,100,95,100,70,30,490,https://img.pokemondb.net/s.png
+108,081,Magnemite,"['Electric', 'Steel']",25,35,70,95,55,45,325,https://img.pokemondb.net/sprites/sword-shield/icon/magnemite.png
+109,082,Magneton,"['Electric', 'Steel']",50,60,95,120,70,70,465,https://img.pokemondb.net/sprites/sword-shield/icon/magneton.png
+110,083,Farfetch'd,"['Normal', 'Flying']",52,90,55,58,62,60,377,https://img.pokemondb.net/sprites/sword-shield/icon/farfetchd.png
+111,083,Galarian Farfetch'd,['Fighting'],52,95,55,58,62,55,377,https://img.pokemondb.net/sprites/sword-shield/icon/farfetchd-galarian.png
+112,084,Doduo,"['Normal', 'Flying']",35,85,45,35,35,75,310,https://img.pokemondb.net/sprites/sword-shield/icon/doduo.png
+113,085,Dodrio,"['Normal', 'Flying']",60,110,70,60,60,110,470,https://img.pokemondb.net/sprites/sword-shield/icon/dodrio.png
+114,086,Seel,['Water'],65,45,55,45,70,45,325,https://img.pokemondb.net/sprites/sword-shield/icon/seel.png
+115,087,Dewgong,"['Water', 'Ice']",90,70,80,70,95,70,475,https://img.pokemondb.net/sprites/sword-shield/icon/dewgong.png
+116,088,Grimer,['Poison'],80,80,50,40,50,25,325,https://img.pokemondb.net/sprites/sword-shield/icon/grimer.png
+117,088,Alolan Grimer,"['Poison', 'Dark']",80,80,50,40,50,25,325,https://img.pokemondb.net/sprites/sword-shield/icon/grimer-alolan.png
+118,089,Muk,['Poison'],105,105,75,65,100,50,500,https://img.pokemondb.net/sprites/sword-shield/icon/muk.png
+119,089,Alolan Muk,"['Poison', 'Dark']",105,105,75,65,100,50,500,https://img.pokemondb.net/sprites/sword-shield/icon/muk-alolan.png
+120,090,Shellder,['Water'],30,65,100,45,25,40,305,https://img.pokemondb.net/sprites/sword-shield/icon/shellder.png
+121,091,Cloyster,"['Water', 'Ice']",50,95,180,85,45,70,525,https://img.pokemondb.net/sprites/sword-shield/icon/cloyster.png
+122,092,Gastly,"['Ghost', 'Poison']",30,35,30,100,35,80,310,https://img.pokemondb.net/sprites/sword-shield/icon/gastly.png
+123,093,Haunter,"['Ghost', 'Poison']",45,50,45,115,55,95,405,https://img.pokemondb.net/sprites/sword-shield/icon/haunter.png
+124,094,Gengar,"['Ghost', 'Poison']",60,65,60,130,75,110,500,https://img.pokemondb.net/sprites/sword-shield/icon/gengar.png
+125,094,Mega Gengar,"['Ghost', 'Poison']",60,65,80,170,95,130,600,https://img.pokemondb.net/sprites/sword-shield/icon/gengar-mega.png
+126,095,Onix,"['Rock', 'Ground']",35,45,160,30,45,70,385,https://img.pokemondb.net/sprites/sword-shield/icon/onix.png
+127,096,Drowzee,['Psychic'],60,48,45,43,90,42,328,https://img.pokemondb.net/sprites/sword-shield/icon/drowzee.png
+128,097,Hypno,['Psychic'],85,73,70,73,115,67,483,https://img.pokemondb.net/sprites/sword-shield/icon/hypno.png
+129,098,Krabby,['Water'],30,105,90,25,25,50,325,https://img.pokemondb.net/sprites/sword-shield/icon/krabby.png
+130,099,Kingler,['Water'],55,130,115,50,50,75,475,https://img.pokemondb.net/sprites/sword-shield/icon/kingler.png
+131,100,Voltorb,['Electric'],40,30,50,55,55,100,330,https://img.pokemondb.net/sprites/sword-shield/icon/voltorb.png
+132,101,Electrode,['Electric'],60,50,70,80,80,150,490,https://img.pokemondb.net/sprites/sword-shield/icon/electrode.png
+133,102,Exeggcute,"['Grass', 'Psychic']",60,40,80,60,45,40,325,https://img.pokemondb.net/sprites/sword-shield/icon/exeggcute.png
+134,103,Exeggutor,"['Grass', 'Psychic']",95,95,85,125,75,55,530,https://img.pokemondb.net/sprites/sword-shield/icon/exeggutor.png
+135,103,Alolan Exeggutor,"['Grass', 'Dragon']",95,105,85,125,75,45,530,https://img.pokemondb.net/sprites/sword-shield/icon/exeggutor-alolan.png
+136,104,Cubone,['Ground'],50,50,95,40,50,35,320,https://img.pokemondb.net/sprites/sword-shield/icon/cubone.png
+137,105,Marowak,['Ground'],60,80,110,50,80,45,425,https://img.pokemondb.net/sprites/sword-shield/icon/marowak.png
+138,105,Alolan Marowak,"['Fire', 'Ghost']",60,80,110,50,80,45,425,https://img.pokemondb.net/sprites/sword-shield/icon/marowak-alolan.png
+139,106,Hitmonlee,['Fighting'],50,120,53,35,110,87,455,https://img.pokemondb.net/sprites/sword-shield/icon/hitmonlee.png
+140,107,Hitmonchan,['Fighting'],50,105,79,35,110,76,455,https://img.pokemondb.net/sprites/sword-shield/icon/hitmonchan.png
+141,108,Lickitung,['Normal'],90,55,75,60,75,30,385,https://img.pokemondb.net/sprites/sword-shield/icon/lickitung.png
+142,109,Koffing,['Poison'],40,65,95,60,45,35,340,https://img.pokemondb.net/sprites/sword-shield/icon/koffing.png
+143,110,Weezing,['Poison'],65,90,120,85,70,60,490,https://img.pokemondb.net/sprites/sword-shield/icon/weezing.png
+144,110,Galarian Weezing,"['Poison', 'Fairy']",65,90,120,85,70,60,490,https://img.pokemondb.net/sprites/sword-shield/icon/weezing-galarian.png
+145,111,Rhyhorn,"['Ground', 'Rock']",80,85,95,30,30,25,345,https://img.pokemondb.net/sprites/sword-shield/icon/rhyhorn.png
+146,112,Rhydon,"['Ground', 'Rock']",105,130,120,45,45,40,485,https://img.pokemondb.net/sprites/sword-shield/icon/rhydon.png
+147,113,Chansey,['Normal'],250,5,5,35,105,50,450,https://img.pokemondb.net/sprites/sword-shield/icon/chansey.png
+148,114,Tangela,['Grass'],65,55,115,100,40,60,435,https://img.pokemondb.net/sprites/sword-shield/icon/tangela.png
+149,115,Kangaskhan,['Normal'],105,95,80,40,80,90,490,https://img.pokemondb.net/sprites/sword-shield/icon/kangaskhan.png
+150,115,Mega Kangaskhan,['Normal'],105,125,100,60,100,100,590,https://img.pokemondb.net/sprites/sword-shield/icon/kangaskhan-mega.png
+151,116,Horsea,['Water'],30,40,70,70,25,60,295,https://img.pokemondb.net/sprites/sword-shield/icon/horsea.png
+152,117,Seadra,['Water'],55,65,95,95,45,85,440,https://img.pokemondb.net/sprites/sword-shield/icon/seadra.png
+153,118,Goldeen,['Water'],45,67,60,35,50,63,320,https://img.pokemondb.net/sprites/sword-shield/icon/goldeen.png
+154,119,Seaking,['Water'],80,92,65,65,80,68,450,https://img.pokemondb.net/sprites/sword-shield/icon/seaking.png
+155,120,Staryu,['Water'],30,45,55,70,55,85,340,https://img.pokemondb.net/sprites/sword-shield/icon/staryu.png
+156,121,Starmie,"['Water', 'Psychic']",60,75,85,100,85,115,520,https://img.pokemondb.net/sprites/sword-shield/icon/starmie.png
+157,122,Mr. Mime,"['Psychic', 'Fairy']",40,45,65,100,120,90,460,https://img.pokemondb.net/sprites/sword-shield/icon/mr-mime.png
+158,122,Galarian Mr. Mime,"['Psychic', 'Ice']",50,65,65,90,90,100,460,https://img.pokemondb.net/sprites/sword-shield/icon/mr-mime-galarian.png
+159,123,Scyther,"['Bug', 'Flying']",70,110,80,55,80,105,500,https://img.pokemondb.net/sprites/sword-shield/icon/scyther.png
+160,124,Jynx,"['Ice', 'Psychic']",65,50,35,115,95,95,455,https://img.pokemondb.net/sprites/sword-shield/icon/jynx.png
+161,125,Electabuzz,['Electric'],65,83,57,95,85,105,490,https://img.pokemondb.net/sprites/sword-shield/icon/electabuzz.png
+162,126,Magmar,['Fire'],65,95,57,100,85,93,495,https://img.pokemondb.net/sprites/sword-shield/icon/magmar.png
+163,127,Pinsir,['Bug'],65,125,100,55,70,85,500,https://img.pokemondb.net/sprites/sword-shield/icon/pinsir.png
+164,127,Mega Pinsir,"['Bug', 'Flying']",65,155,120,65,90,105,600,https://img.pokemondb.net/sprites/sword-shield/icon/pinsir-mega.png
+165,128,Tauros,['Normal'],75,100,95,40,70,110,490,https://img.pokemondb.net/sprites/sword-shield/icon/tauros.png
+166,129,Magikarp,['Water'],20,10,55,15,20,80,200,https://img.pokemondb.net/sprites/sword-shield/icon/magikarp.png
+167,130,Gyarados,"['Water', 'Flying']",95,125,79,60,100,81,540,https://img.pokemondb.net/sprites/sword-shield/icon/gyarados.png
+168,130,Mega Gyarados,"['Water', 'Dark']",95,155,109,70,130,81,640,https://img.pokemondb.net/sprites/sword-shield/icon/gyarados-mega.png
+169,131,Lapras,"['Water', 'Ice']",130,85,80,85,95,60,535,https://img.pokemondb.net/sprites/sword-shield/icon/lapras.png
+170,132,Ditto,['Normal'],48,48,48,48,48,48,288,https://img.pokemondb.net/sprites/sword-shield/icon/ditto.png
+171,133,Eevee,['Normal'],55,55,50,45,65,55,325,https://img.pokemondb.net/sprites/sword-shield/icon/eevee.png
+172,133,Partner Eevee,['Normal'],65,75,70,65,85,75,435,https://img.pokemondb.net/sprites/sword-shield/icon/eevee-lets-go.png
+173,134,Vaporeon,['Water'],130,65,60,110,95,65,525,https://img.pokemondb.net/sprites/sword-shield/icon/vaporeon.png
+174,135,Jolteon,['Electric'],65,65,60,110,95,130,525,https://img.pokemondb.net/sprites/sword-shield/icon/jolteon.png
+175,136,Flareon,['Fire'],65,130,60,95,110,65,525,https://img.pokemondb.net/sprites/sword-shield/icon/flareon.png
+176,137,Porygon,['Normal'],65,60,70,85,75,40,395,https://img.pokemondb.net/sprites/sword-shield/icon/porygon.png
+177,138,Omanyte,"['Rock', 'Water']",35,40,100,90,55,35,355,https://img.pokemondb.net/sprites/sword-shield/icon/omanyte.png
+178,139,Omastar,"['Rock', 'Water']",70,60,125,115,70,55,495,https://img.pokemondb.net/sprites/sword-shield/icon/omastar.png
+179,140,Kabuto,"['Rock', 'Water']",30,80,90,55,45,55,355,https://img.pokemondb.net/sprites/sword-shield/icon/kabuto.png
+180,141,Kabutops,"['Rock', 'Water']",60,115,105,65,70,80,495,https://img.pokemondb.net/sprites/sword-shield/icon/kabutops.png
+181,142,Aerodactyl,"['Rock', 'Flying']",80,105,65,60,75,130,515,https://img.pokemondb.net/sprites/sword-shield/icon/aerodactyl.png
+182,142,Mega Aerodactyl,"['Rock', 'Flying']",80,135,85,70,95,150,615,https://img.pokemondb.net/sprites/sword-shield/icon/aerodactyl-mega.png
+183,143,Snorlax,['Normal'],160,110,65,65,110,30,540,https://img.pokemondb.net/sprites/sword-shield/icon/snorlax.png
+184,144,Articuno,"['Ice', 'Flying']",90,85,100,95,125,85,580,https://img.pokemondb.net/sprites/sword-shield/icon/articuno.png
+185,145,Zapdos,"['Electric', 'Flying']",90,90,85,125,90,100,580,https://img.pokemondb.net/sprites/sword-shield/icon/zapdos.png
+186,146,Moltres,"['Fire', 'Flying']",90,100,90,125,85,90,580,https://img.pokemondb.net/sprites/sword-shield/icon/moltres.png
+187,147,Dratini,['Dragon'],41,64,45,50,50,50,300,https://img.pokemondb.net/sprites/sword-shield/icon/dratini.png
+188,148,Dragonair,['Dragon'],61,84,65,70,70,70,420,https://img.pokemondb.net/sprites/sword-shield/icon/dragonair.png
+189,149,Dragonite,"['Dragon', 'Flying']",91,134,95,100,100,80,600,https://img.pokemondb.net/sprites/sword-shield/icon/dragonite.png
+190,150,Mewtwo,['Psychic'],106,110,90,154,90,130,680,https://img.pokemondb.net/sprites/sword-shield/icon/mewtwo.png
+191,150,Mega Mewtwo X,"['Psychic', 'Fighting']",106,190,100,154,100,130,780,https://img.pokemondb.net/sprites/sword-shield/icon/mewtwo-mega-x.png
+192,150,Mega Mewtwo Y,['Psychic'],106,150,70,194,120,140,780,https://img.pokemondb.net/sprites/sword-shield/icon/mewtwo-mega-y.png
+193,151,Mew,['Psychic'],100,100,100,100,100,100,600,https://img.pokemondb.net/sprites/sword-shield/icon/mew.png
+194,152,Chikorita,['Grass'],45,49,65,49,65,45,318,https://img.pokemondb.net/sprites/sword-shield/icon/chikorita.png
+195,153,Bayleef,['Grass'],60,62,80,63,80,60,405,https://img.pokemondb.net/sprites/sword-shield/icon/bayleef.png
+196,154,Meganium,['Grass'],80,82,100,83,100,80,525,https://img.pokemondb.net/sprites/sword-shield/icon/meganium.png
+197,155,Cyndaquil,['Fire'],39,52,43,60,50,65,309,https://img.pokemondb.net/sprites/sword-shield/icon/cyndaquil.png
+198,156,Quilava,['Fire'],58,64,58,80,65,80,405,https://img.pokemondb.net/sprites/sword-shield/icon/quilava.png
+199,157,Typhlosion,['Fire'],78,84,78,109,85,100,534,https://img.pokemondb.net/sprites/sword-shield/icon/typhlosion.png
+200,158,Totodile,['Water'],50,65,64,44,48,43,314,https://img.pokemondb.net/sprites/sword-shield/icon/totodile.png
+201,159,Croconaw,['Water'],65,80,80,59,63,58,405,https://img.pokemondb.net/sprites/sword-shield/icon/croconaw.png
+202,160,Feraligatr,['Water'],85,105,100,79,83,78,530,https://img.pokemondb.net/sprites/sword-shield/icon/feraligatr.png
+203,161,Sentret,['Normal'],35,46,34,35,45,20,215,https://img.pokemondb.net/sprites/sword-shield/icon/sentret.png
+204,162,Furret,['Normal'],85,76,64,45,55,90,415,https://img.pokemondb.net/sprites/sword-shield/icon/furret.png
+205,163,Hoothoot,"['Normal', 'Flying']",60,30,30,36,56,50,262,https://img.pokemondb.net/sprites/sword-shield/icon/hoothoot.png
+206,164,Noctowl,"['Normal', 'Flying']",100,50,50,86,96,70,452,https://img.pokemondb.net/sprites/sword-shield/icon/noctowl.png
+207,165,Ledyba,"['Bug', 'Flying']",40,20,30,40,80,55,265,https://img.pokemondb.net/sprites/sword-shield/icon/ledyba.png
+208,166,Ledian,"['Bug', 'Flying']",55,35,50,55,110,85,390,https://img.pokemondb.net/sprites/sword-shield/icon/ledian.png
+209,167,Spinarak,"['Bug', 'Poison']",40,60,40,40,40,30,250,https://img.pokemondb.net/sprites/sword-shield/icon/spinarak.png
+210,168,Ariados,"['Bug', 'Poison']",70,90,70,60,70,40,400,https://img.pokemondb.net/sprites/sword-shield/icon/ariados.png
+211,169,Crobat,"['Poison', 'Flying']",85,90,80,70,80,130,535,https://img.pokemondb.net/sprites/sword-shield/icon/crobat.png
+212,170,Chinchou,"['Water', 'Electric']",75,38,38,56,56,67,330,https://img.pokemondb.net/sprites/sword-shield/icon/chinchou.png
+213,171,Lanturn,"['Water', 'Electric']",125,58,58,76,76,67,460,https://img.pokemondb.net/sprites/sword-shield/icon/lanturn.png
+214,172,Pichu,['Electric'],20,40,15,35,35,60,205,https://img.pokemondb.net/sprites/sword-shield/icon/pichu.png
+215,173,Cleffa,['Fairy'],50,25,28,45,55,15,218,https://img.pokemondb.net/sprites/sword-shield/icon/cleffa.png
+216,174,Igglybuff,"['Normal', 'Fairy']",90,30,15,40,20,15,210,https://img.pokemondb.net/sprites/sword-shield/icon/igglybuff.png
+217,175,Togepi,['Fairy'],35,20,65,40,65,20,245,https://img.pokemondb.net/sprites/sword-shield/icon/togepi.png
+218,176,Togetic,"['Fairy', 'Flying']",55,40,85,80,105,40,405,https://img.pokemondb.net/sprites/sword-shield/icon/togetic.png
+219,177,Natu,"['Psychic', 'Flying']",40,50,45,70,45,70,320,https://img.pokemondb.net/sprites/sword-shield/icon/natu.png
+220,178,Xatu,"['Psychic', 'Flying']",65,75,70,95,70,95,470,https://img.pokemondb.net/sprites/sword-shield/icon/xatu.png
+221,179,Mareep,['Electric'],55,40,40,65,45,35,280,https://img.pokemondb.net/sprites/sword-shield/icon/mareep.png
+222,180,Flaaffy,['Electric'],70,55,55,80,60,45,365,https://img.pokemondb.net/sprites/sword-shield/icon/flaaffy.png
+223,181,Ampharos,['Electric'],90,75,85,115,90,55,510,https://img.pokemondb.net/sprites/sword-shield/icon/ampharos.png
+224,181,Mega Ampharos,"['Electric', 'Dragon']",90,95,105,165,110,45,610,https://img.pokemondb.net/sprites/sword-shield/icon/ampharos-mega.png
+225,182,Bellossom,['Grass'],75,80,95,90,100,50,490,https://img.pokemondb.net/sprites/sword-shield/icon/bellossom.png
+226,183,Marill,"['Water', 'Fairy']",70,20,50,20,50,40,250,https://img.pokemondb.net/sprites/sword-shield/icon/marill.png
+227,184,Azumarill,"['Water', 'Fairy']",100,50,80,60,80,50,420,https://img.pokemondb.net/sprites/sword-shield/icon/azumarill.png
+228,185,Sudowoodo,['Rock'],70,100,115,30,65,30,410,https://img.pokemondb.net/sprites/sword-shield/icon/sudowoodo.png
+229,186,Politoed,['Water'],90,75,75,90,100,70,500,https://img.pokemondb.net/sprites/sword-shield/icon/politoed.png
+230,187,Hoppip,"['Grass', 'Flying']",35,35,40,35,55,50,250,https://img.pokemondb.net/sprites/sword-shield/icon/hoppip.png
+231,188,Skiploom,"['Grass', 'Flying']",55,45,50,45,65,80,340,https://img.pokemondb.net/sprites/sword-shield/icon/skiploom.png
+232,189,Jumpluff,"['Grass', 'Flying']",75,55,70,55,95,110,460,https://img.pokemondb.net/sprites/sword-shield/icon/jumpluff.png
+233,190,Aipom,['Normal'],55,70,55,40,55,85,360,https://img.pokemondb.net/sprites/sword-shield/icon/aipom.png
+234,191,Sunkern,['Grass'],30,30,30,30,30,30,180,https://img.pokemondb.net/sprites/sword-shield/icon/sunkern.png
+235,192,Sunflora,['Grass'],75,75,55,105,85,30,425,https://img.pokemondb.net/sprites/sword-shield/icon/sunflora.png
+236,193,Yanma,"['Bug', 'Flying']",65,65,45,75,45,95,390,https://img.pokemondb.net/sprites/sword-shield/icon/yanma.png
+237,194,Wooper,"['Water', 'Ground']",55,45,45,25,25,15,210,https://img.pokemondb.net/sprites/sword-shield/icon/wooper.png
+238,195,Quagsire,"['Water', 'Ground']",95,85,85,65,65,35,430,https://img.pokemondb.net/sprites/sword-shield/icon/quagsire.png
+239,196,Espeon,['Psychic'],65,65,60,130,95,110,525,https://img.pokemondb.net/sprites/sword-shield/icon/espeon.png
+240,197,Umbreon,['Dark'],95,65,110,60,130,65,525,https://img.pokemondb.net/sprites/sword-shield/icon/umbreon.png
+241,198,Murkrow,"['Dark', 'Flying']",60,85,42,85,42,91,405,https://img.pokemondb.net/sprites/sword-shield/icon/murkrow.png
+242,199,Slowking,"['Water', 'Psychic']",95,75,80,100,110,30,490,https://img.pokemondb.net/sprites/sword-shield/icon/slowking.png
+243,200,Misdreavus,['Ghost'],60,60,60,85,85,85,435,https://img.pokemondb.net/sprites/sword-shield/icon/misdreavus.png
+244,201,Unown,['Psychic'],48,72,48,72,48,48,336,https://img.pokemondb.net/sprites/sword-shield/icon/unown.png
+245,202,Wobbuffet,['Psychic'],190,33,58,33,58,33,405,https://img.pokemondb.net/sprites/sword-shield/icon/wobbuffet.png
+246,203,Girafarig,"['Normal', 'Psychic']",70,80,65,90,65,85,455,https://img.pokemondb.net/sprites/sword-shield/icon/girafarig.png
+247,204,Pineco,['Bug'],50,65,90,35,35,15,290,https://img.pokemondb.net/sprites/sword-shield/icon/pineco.png
+248,205,Forretress,"['Bug', 'Steel']",75,90,140,60,60,40,465,https://img.pokemondb.net/sprites/sword-shield/icon/forretress.png
+249,206,Dunsparce,['Normal'],100,70,70,65,65,45,415,https://img.pokemondb.net/sprites/sword-shield/icon/dunsparce.png
+250,207,Gligar,"['Ground', 'Flying']",65,75,105,35,65,85,430,https://img.pokemondb.net/sprites/sword-shield/icon/gligar.png
+251,208,Steelix,"['Steel', 'Ground']",75,85,200,55,65,30,510,https://img.pokemondb.net/sprites/sword-shield/icon/steelix.png
+252,208,Mega Steelix,"['Steel', 'Ground']",75,125,230,55,95,30,610,https://img.pokemondb.net/sprites/sword-shield/icon/steelix-mega.png
+253,209,Snubbull,['Fairy'],60,80,50,40,40,30,300,https://img.pokemondb.net/sprites/sword-shield/icon/snubbull.png
+254,210,Granbull,['Fairy'],90,120,75,60,60,45,450,https://img.pokemondb.net/sprites/sword-shield/icon/granbull.png
+255,211,Qwilfish,"['Water', 'Poison']",65,95,85,55,55,85,440,https://img.pokemondb.net/sprites/sword-shield/icon/qwilfish.png
+256,212,Scizor,"['Bug', 'Steel']",70,130,100,55,80,65,500,https://img.pokemondb.net/sprites/sword-shield/icon/scizor.png
+257,212,Mega Scizor,"['Bug', 'Steel']",70,150,140,65,100,75,600,https://img.pokemondb.net/sprites/sword-shield/icon/scizor-mega.png
+258,213,Shuckle,"['Bug', 'Rock']",20,10,230,10,230,5,505,https://img.pokemondb.net/sprites/sword-shield/icon/shuckle.png
+259,214,Heracross,"['Bug', 'Fighting']",80,125,75,40,95,85,500,https://img.pokemondb.net/sprites/sword-shield/icon/heracross.png
+260,214,Mega Heracross,"['Bug', 'Fighting']",80,185,115,40,105,75,600,https://img.pokemondb.net/sprites/sword-shield/icon/heracross-mega.png
+261,215,Sneasel,"['Dark', 'Ice']",55,95,55,35,75,115,430,https://img.pokemondb.net/sprites/sword-shield/icon/sneasel.png
+262,216,Teddiursa,['Normal'],60,80,50,50,50,40,330,https://img.pokemondb.net/sprites/sword-shield/icon/teddiursa.png
+263,217,Ursaring,['Normal'],90,130,75,75,75,55,500,https://img.pokemondb.net/sprites/sword-shield/icon/ursaring.png
+264,218,Slugma,['Fire'],40,40,40,70,40,20,250,https://img.pokemondb.net/sprites/sword-shield/icon/slugma.png
+265,219,Magcargo,"['Fire', 'Rock']",60,50,120,90,80,30,430,https://img.pokemondb.net/sprites/sword-shield/icon/magcargo.png
+266,220,Swinub,"['Ice', 'Ground']",50,50,40,30,30,50,250,https://img.pokemondb.net/sprites/sword-shield/icon/swinub.png
+267,221,Piloswine,"['Ice', 'Ground']",100,100,80,60,60,50,450,https://img.pokemondb.net/sprites/sword-shield/icon/piloswine.png
+268,222,Corsola,"['Water', 'Rock']",65,55,95,65,95,35,410,https://img.pokemondb.net/sprites/sword-shield/icon/corsola.png
+269,222,Galarian Corsola,['Ghost'],60,55,100,65,100,30,410,https://img.pokemondb.net/sprites/sword-shield/icon/corsola-galarian.png
+270,223,Remoraid,['Water'],35,65,35,65,35,65,300,https://img.pokemondb.net/sprites/sword-shield/icon/remoraid.png
+271,224,Octillery,['Water'],75,105,75,105,75,45,480,https://img.pokemondb.net/sprites/sword-shield/icon/octillery.png
+272,225,Delibird,"['Ice', 'Flying']",45,55,45,65,45,75,330,https://img.pokemondb.net/sprites/sword-shield/icon/delibird.png
+273,226,Mantine,"['Water', 'Flying']",85,40,70,80,140,70,485,https://img.pokemondb.net/sprites/sword-shield/icon/mantine.png
+274,227,Skarmory,"['Steel', 'Flying']",65,80,140,40,70,70,465,https://img.pokemondb.net/sprites/sword-shield/icon/skarmory.png
+275,228,Houndour,"['Dark', 'Fire']",45,60,30,80,50,65,330,https://img.pokemondb.net/sprites/sword-shield/icon/houndour.png
+276,229,Houndoom,"['Dark', 'Fire']",75,90,50,110,80,95,500,https://img.pokemondb.net/sprites/sword-shield/icon/houndoom.png
+277,229,Mega Houndoom,"['Dark', 'Fire']",75,90,90,140,90,115,600,https://img.pokemondb.net/sprites/sword-shield/icon/houndoom-mega.png
+278,230,Kingdra,"['Water', 'Dragon']",75,95,95,95,95,85,540,https://img.pokemondb.net/sprites/sword-shield/icon/kingdra.png
+279,231,Phanpy,['Ground'],90,60,60,40,40,40,330,https://img.pokemondb.net/sprites/sword-shield/icon/phanpy.png
+280,232,Donphan,['Ground'],90,120,120,60,60,50,500,https://img.pokemondb.net/sprites/sword-shield/icon/donphan.png
+281,233,Porygon2,['Normal'],85,80,90,105,95,60,515,https://img.pokemondb.net/sprites/sword-shield/icon/porygon2.png
+282,234,Stantler,['Normal'],73,95,62,85,65,85,465,https://img.pokemondb.net/sprites/sword-shield/icon/stantler.png
+283,235,Smeargle,['Normal'],55,20,35,20,45,75,250,https://img.pokemondb.net/sprites/sword-shield/icon/smeargle.png
+284,236,Tyrogue,['Fighting'],35,35,35,35,35,35,210,https://img.pokemondb.net/sprites/sword-shield/icon/tyrogue.png
+285,237,Hitmontop,['Fighting'],50,95,95,35,110,70,455,https://img.pokemondb.net/sprites/sword-shield/icon/hitmontop.png
+286,238,Smoochum,"['Ice', 'Psychic']",45,30,15,85,65,65,305,https://img.pokemondb.net/sprites/sword-shield/icon/smoochum.png
+287,239,Elekid,['Electric'],45,63,37,65,55,95,360,https://img.pokemondb.net/sprites/sword-shield/icon/elekid.png
+288,240,Magby,['Fire'],45,75,37,70,55,83,365,https://img.pokemondb.net/sprites/sword-shield/icon/magby.png
+289,241,Miltank,['Normal'],95,80,105,40,70,100,490,https://img.pokemondb.net/sprites/sword-shield/icon/miltank.png
+290,242,Blissey,['Normal'],255,10,10,75,135,55,540,https://img.pokemondb.net/sprites/sword-shield/icon/blissey.png
+291,243,Raikou,['Electric'],90,85,75,115,100,115,580,https://img.pokemondb.net/sprites/sword-shield/icon/raikou.png
+292,244,Entei,['Fire'],115,115,85,90,75,100,580,https://img.pokemondb.net/sprites/sword-shield/icon/entei.png
+293,245,Suicune,['Water'],100,75,115,90,115,85,580,https://img.pokemondb.net/sprites/sword-shield/icon/suicune.png
+294,246,Larvitar,"['Rock', 'Ground']",50,64,50,45,50,41,300,https://img.pokemondb.net/sprites/sword-shield/icon/larvitar.png
+295,247,Pupitar,"['Rock', 'Ground']",70,84,70,65,70,51,410,https://img.pokemondb.net/sprites/sword-shield/icon/pupitar.png
+296,248,Tyranitar,"['Rock', 'Dark']",100,134,110,95,100,61,600,https://img.pokemondb.net/sprites/sword-shield/icon/tyranitar.png
+297,248,Mega Tyranitar,"['Rock', 'Dark']",100,164,150,95,120,71,700,https://img.pokemondb.net/sprites/sword-shield/icon/tyranitar-mega.png
+298,249,Lugia,"['Psychic', 'Flying']",106,90,130,90,154,110,680,https://img.pokemondb.net/sprites/sword-shield/icon/lugia.png
+299,250,Ho-oh,"['Fire', 'Flying']",106,130,90,110,154,90,680,https://img.pokemondb.net/sprites/sword-shield/icon/ho-oh.png
+300,251,Celebi,"['Psychic', 'Grass']",100,100,100,100,100,100,600,https://img.pokemondb.net/sprites/sword-shield/icon/celebi.png
+301,252,Treecko,['Grass'],40,45,35,65,55,70,310,https://img.pokemondb.net/sprites/sword-shield/icon/treecko.png
+302,253,Grovyle,['Grass'],50,65,45,85,65,95,405,https://img.pokemondb.net/sprites/sword-shield/icon/grovyle.png
+303,254,Sceptile,['Grass'],70,85,65,105,85,120,530,https://img.pokemondb.net/sprites/sword-shield/icon/sceptile.png
+304,254,Mega Sceptile,"['Grass', 'Dragon']",70,110,75,145,85,145,630,https://img.pokemondb.net/sprites/sword-shield/icon/sceptile-mega.png
+305,255,Torchic,['Fire'],45,60,40,70,50,45,310,https://img.pokemondb.net/sprites/sword-shield/icon/torchic.png
+306,256,Combusken,"['Fire', 'Fighting']",60,85,60,85,60,55,405,https://img.pokemondb.net/sprites/sword-shield/icon/combusken.png
+307,257,Blaziken,"['Fire', 'Fighting']",80,120,70,110,70,80,530,https://img.pokemondb.net/sprites/sword-shield/icon/blaziken.png
+308,257,Mega Blaziken,"['Fire', 'Fighting']",80,160,80,130,80,100,630,https://img.pokemondb.net/sprites/sword-shield/icon/blaziken-mega.png
+309,258,Mudkip,['Water'],50,70,50,50,50,40,310,https://img.pokemondb.net/sprites/sword-shield/icon/mudkip.png
+310,259,Marshtomp,"['Water', 'Ground']",70,85,70,60,70,50,405,https://img.pokemondb.net/sprites/sword-shield/icon/marshtomp.png
+311,260,Swampert,"['Water', 'Ground']",100,110,90,85,90,60,535,https://img.pokemondb.net/sprites/sword-shield/icon/swampert.png
+312,260,Mega Swampert,"['Water', 'Ground']",100,150,110,95,110,70,635,https://img.pokemondb.net/sprites/sword-shield/icon/swampert-mega.png
+313,261,Poochyena,['Dark'],35,55,35,30,30,35,220,https://img.pokemondb.net/sprites/sword-shield/icon/poochyena.png
+314,262,Mightyena,['Dark'],70,90,70,60,60,70,420,https://img.pokemondb.net/sprites/sword-shield/icon/mightyena.png
+315,263,Zigzagoon,['Normal'],38,30,41,30,41,60,240,https://img.pokemondb.net/sprites/sword-shield/icon/zigzagoon.png
+316,263,Galarian Zigzagoon,"['Dark', 'Normal']",38,30,41,30,41,60,240,https://img.pokemondb.net/sprites/sword-shield/icon/zigzagoon-galarian.png
+317,264,Linoone,['Normal'],78,70,61,50,61,100,420,https://img.pokemondb.net/sprites/sword-shield/icon/linoone.png
+318,264,Galarian Linoone,"['Dark', 'Normal']",78,70,61,50,61,100,420,https://img.pokemondb.net/sprites/sword-shield/icon/linoone-galarian.png
+319,265,Wurmple,['Bug'],45,45,35,20,30,20,195,https://img.pokemondb.net/sprites/sword-shield/icon/wurmple.png
+320,266,Silcoon,['Bug'],50,35,55,25,25,15,205,https://img.pokemondb.net/sprites/sword-shield/icon/silcoon.png
+321,267,Beautifly,"['Bug', 'Flying']",60,70,50,100,50,65,395,https://img.pokemondb.net/sprites/sword-shield/icon/beautifly.png
+322,268,Cascoon,['Bug'],50,35,55,25,25,15,205,https://img.pokemondb.net/sprites/sword-shield/icon/cascoon.png
+323,269,Dustox,"['Bug', 'Poison']",60,50,70,50,90,65,385,https://img.pokemondb.net/sprites/sword-shield/icon/dustox.png
+324,270,Lotad,"['Water', 'Grass']",40,30,30,40,50,30,220,https://img.pokemondb.net/sprites/sword-shield/icon/lotad.png
+325,271,Lombre,"['Water', 'Grass']",60,50,50,60,70,50,340,https://img.pokemondb.net/sprites/sword-shield/icon/lombre.png
+326,272,Ludicolo,"['Water', 'Grass']",80,70,70,90,100,70,480,https://img.pokemondb.net/sprites/sword-shield/icon/ludicolo.png
+327,273,Seedot,['Grass'],40,40,50,30,30,30,220,https://img.pokemondb.net/sprites/sword-shield/icon/seedot.png
+328,274,Nuzleaf,"['Grass', 'Dark']",70,70,40,60,40,60,340,https://img.pokemondb.net/sprites/sword-shield/icon/nuzleaf.png
+329,275,Shiftry,"['Grass', 'Dark']",90,100,60,90,60,80,480,https://img.pokemondb.net/sprites/sword-shield/icon/shiftry.png
+330,276,Taillow,"['Normal', 'Flying']",40,55,30,30,30,85,270,https://img.pokemondb.net/sprites/sword-shield/icon/taillow.png
+331,277,Swellow,"['Normal', 'Flying']",60,85,60,75,50,125,455,https://img.pokemondb.net/sprites/sword-shield/icon/swellow.png
+332,278,Wingull,"['Water', 'Flying']",40,30,30,55,30,85,270,https://img.pokemondb.net/sprites/sword-shield/icon/wingull.png
+333,279,Pelipper,"['Water', 'Flying']",60,50,100,95,70,65,440,https://img.pokemondb.net/sprites/sword-shield/icon/pelipper.png
+334,280,Ralts,"['Psychic', 'Fairy']",28,25,25,45,35,40,198,https://img.pokemondb.net/sprites/sword-shield/icon/ralts.png
+335,281,Kirlia,"['Psychic', 'Fairy']",38,35,35,65,55,50,278,https://img.pokemondb.net/sprites/sword-shield/icon/kirlia.png
+336,282,Gardevoir,"['Psychic', 'Fairy']",68,65,65,125,115,80,518,https://img.pokemondb.net/sprites/sword-shield/icon/gardevoir.png
+337,282,Mega Gardevoir,"['Psychic', 'Fairy']",68,85,65,165,135,100,618,https://img.pokemondb.net/sprites/sword-shield/icon/gardevoir-mega.png
+338,283,Surskit,"['Bug', 'Water']",40,30,32,50,52,65,269,https://img.pokemondb.net/sprites/sword-shield/icon/surskit.png
+339,284,Masquerain,"['Bug', 'Flying']",70,60,62,100,82,80,454,https://img.pokemondb.net/sprites/sword-shield/icon/masquerain.png
+340,285,Shroomish,['Grass'],60,40,60,40,60,35,295,https://img.pokemondb.net/sprites/sword-shield/icon/shroomish.png
+341,286,Breloom,"['Grass', 'Fighting']",60,130,80,60,60,70,460,https://img.pokemondb.net/sprites/sword-shield/icon/breloom.png
+342,287,Slakoth,['Normal'],60,60,60,35,35,30,280,https://img.pokemondb.net/sprites/sword-shield/icon/slakoth.png
+343,288,Vigoroth,['Normal'],80,80,80,55,55,90,440,https://img.pokemondb.net/sprites/sword-shield/icon/vigoroth.png
+344,289,Slaking,['Normal'],150,160,100,95,65,100,670,https://img.pokemondb.net/sprites/sword-shield/icon/slaking.png
+345,290,Nincada,"['Bug', 'Ground']",31,45,90,30,30,40,266,https://img.pokemondb.net/sprites/sword-shield/icon/nincada.png
+346,291,Ninjask,"['Bug', 'Flying']",61,90,45,50,50,160,456,https://img.pokemondb.net/sprites/sword-shield/icon/ninjask.png
+347,292,Shedinja,"['Bug', 'Ghost']",1,90,45,30,30,40,236,https://img.pokemondb.net/sprites/sword-shield/icon/shedinja.png
+348,293,Whismur,['Normal'],64,51,23,51,23,28,240,https://img.pokemondb.net/sprites/sword-shield/icon/whismur.png
+349,294,Loudred,['Normal'],84,71,43,71,43,48,360,https://img.pokemondb.net/sprites/sword-shield/icon/loudred.png
+350,295,Exploud,['Normal'],104,91,63,91,73,68,490,https://img.pokemondb.net/sprites/sword-shield/icon/exploud.png
+351,296,Makuhita,['Fighting'],72,60,30,20,30,25,237,https://img.pokemondb.net/sprites/sword-shield/icon/makuhita.png
+352,297,Hariyama,['Fighting'],144,120,60,40,60,50,474,https://img.pokemondb.net/sprites/sword-shield/icon/hariyama.png
+353,298,Azurill,"['Normal', 'Fairy']",50,20,40,20,40,20,190,https://img.pokemondb.net/sprites/sword-shield/icon/azurill.png
+354,299,Nosepass,['Rock'],30,45,135,45,90,30,375,https://img.pokemondb.net/sprites/sword-shield/icon/nosepass.png
+355,300,Skitty,['Normal'],50,45,45,35,35,50,260,https://img.pokemondb.net/sprites/sword-shield/icon/skitty.png
+356,301,Delcatty,['Normal'],70,65,65,55,55,90,400,https://img.pokemondb.net/sprites/sword-shield/icon/delcatty.png
+357,302,Sableye,"['Dark', 'Ghost']",50,75,75,65,65,50,380,https://img.pokemondb.net/sprites/sword-shield/icon/sableye.png
+358,302,Mega Sableye,"['Dark', 'Ghost']",50,85,125,85,115,20,480,https://img.pokemondb.net/sprites/sword-shield/icon/sableye-mega.png
+359,303,Mawile,"['Steel', 'Fairy']",50,85,85,55,55,50,380,https://img.pokemondb.net/sprites/sword-shield/icon/mawile.png
+360,303,Mega Mawile,"['Steel', 'Fairy']",50,105,125,55,95,50,480,https://img.pokemondb.net/sprites/sword-shield/icon/mawile-mega.png
+361,304,Aron,"['Steel', 'Rock']",50,70,100,40,40,30,330,https://img.pokemondb.net/sprites/sword-shield/icon/aron.png
+362,305,Lairon,"['Steel', 'Rock']",60,90,140,50,50,40,430,https://img.pokemondb.net/sprites/sword-shield/icon/lairon.png
+363,306,Aggron,"['Steel', 'Rock']",70,110,180,60,60,50,530,https://img.pokemondb.net/sprites/sword-shield/icon/aggron.png
+364,306,Mega Aggron,['Steel'],70,140,230,60,80,50,630,https://img.pokemondb.net/sprites/sword-shield/icon/aggron-mega.png
+365,307,Meditite,"['Fighting', 'Psychic']",30,40,55,40,55,60,280,https://img.pokemondb.net/sprites/sword-shield/icon/meditite.png
+366,308,Medicham,"['Fighting', 'Psychic']",60,60,75,60,75,80,410,https://img.pokemondb.net/sprites/sword-shield/icon/medicham.png
+367,308,Mega Medicham,"['Fighting', 'Psychic']",60,100,85,80,85,100,510,https://img.pokemondb.net/sprites/sword-shield/icon/medicham-mega.png
+368,309,Electrike,['Electric'],40,45,40,65,40,65,295,https://img.pokemondb.net/sprites/sword-shield/icon/electrike.png
+369,310,Manectric,['Electric'],70,75,60,105,60,105,475,https://img.pokemondb.net/sprites/sword-shield/icon/manectric.png
+370,310,Mega Manectric,['Electric'],70,75,80,135,80,135,575,https://img.pokemondb.net/sprites/sword-shield/icon/manectric-mega.png
+371,311,Plusle,['Electric'],60,50,40,85,75,95,405,https://img.pokemondb.net/sprites/sword-shield/icon/plusle.png
+372,312,Minun,['Electric'],60,40,50,75,85,95,405,https://img.pokemondb.net/sprites/sword-shield/icon/minun.png
+373,313,Volbeat,['Bug'],65,73,75,47,85,85,430,https://img.pokemondb.net/sprites/sword-shield/icon/volbeat.png
+374,314,Illumise,['Bug'],65,47,75,73,85,85,430,https://img.pokemondb.net/sprites/sword-shield/icon/illumise.png
+375,315,Roselia,"['Grass', 'Poison']",50,60,45,100,80,65,400,https://img.pokemondb.net/sprites/sword-shield/icon/roselia.png
+376,316,Gulpin,['Poison'],70,43,53,43,53,40,302,https://img.pokemondb.net/sprites/sword-shield/icon/gulpin.png
+377,317,Swalot,['Poison'],100,73,83,73,83,55,467,https://img.pokemondb.net/sprites/sword-shield/icon/swalot.png
+378,318,Carvanha,"['Water', 'Dark']",45,90,20,65,20,65,305,https://img.pokemondb.net/sprites/sword-shield/icon/carvanha.png
+379,319,Sharpedo,"['Water', 'Dark']",70,120,40,95,40,95,460,https://img.pokemondb.net/sprites/sword-shield/icon/sharpedo.png
+380,319,Mega Sharpedo,"['Water', 'Dark']",70,140,70,110,65,105,560,https://img.pokemondb.net/sprites/sword-shield/icon/sharpedo-mega.png
+381,320,Wailmer,['Water'],130,70,35,70,35,60,400,https://img.pokemondb.net/sprites/sword-shield/icon/wailmer.png
+382,321,Wailord,['Water'],170,90,45,90,45,60,500,https://img.pokemondb.net/sprites/sword-shield/icon/wailord.png
+383,322,Numel,"['Fire', 'Ground']",60,60,40,65,45,35,305,https://img.pokemondb.net/sprites/sword-shield/icon/numel.png
+384,323,Camerupt,"['Fire', 'Ground']",70,100,70,105,75,40,460,https://img.pokemondb.net/sprites/sword-shield/icon/camerupt.png
+385,323,Mega Camerupt,"['Fire', 'Ground']",70,120,100,145,105,20,560,https://img.pokemondb.net/sprites/sword-shield/icon/camerupt-mega.png
+386,324,Torkoal,['Fire'],70,85,140,85,70,20,470,https://img.pokemondb.net/sprites/sword-shield/icon/torkoal.png
+387,325,Spoink,['Psychic'],60,25,35,70,80,60,330,https://img.pokemondb.net/sprites/sword-shield/icon/spoink.png
+388,326,Grumpig,['Psychic'],80,45,65,90,110,80,470,https://img.pokemondb.net/sprites/sword-shield/icon/grumpig.png
+389,327,Spinda,['Normal'],60,60,60,60,60,60,360,https://img.pokemondb.net/sprites/sword-shield/icon/spinda.png
+390,328,Trapinch,['Ground'],45,100,45,45,45,10,290,https://img.pokemondb.net/sprites/sword-shield/icon/trapinch.png
+391,329,Vibrava,"['Ground', 'Dragon']",50,70,50,50,50,70,340,https://img.pokemondb.net/sprites/sword-shield/icon/vibrava.png
+392,330,Flygon,"['Ground', 'Dragon']",80,100,80,80,80,100,520,https://img.pokemondb.net/sprites/sword-shield/icon/flygon.png
+393,331,Cacnea,['Grass'],50,85,40,85,40,35,335,https://img.pokemondb.net/sprites/sword-shield/icon/cacnea.png
+394,332,Cacturne,"['Grass', 'Dark']",70,115,60,115,60,55,475,https://img.pokemondb.net/sprites/sword-shield/icon/cacturne.png
+395,333,Swablu,"['Normal', 'Flying']",45,40,60,40,75,50,310,https://img.pokemondb.net/sprites/sword-shield/icon/swablu.png
+396,334,Altaria,"['Dragon', 'Flying']",75,70,90,70,105,80,490,https://img.pokemondb.net/sprites/sword-shield/icon/altaria.png
+397,334,Mega Altaria,"['Dragon', 'Fairy']",75,110,110,110,105,80,590,https://img.pokemondb.net/sprites/sword-shield/icon/altaria-mega.png
+398,335,Zangoose,['Normal'],73,115,60,60,60,90,458,https://img.pokemondb.net/sprites/sword-shield/icon/zangoose.png
+399,336,Seviper,['Poison'],73,100,60,100,60,65,458,https://img.pokemondb.net/sprites/sword-shield/icon/seviper.png
+400,337,Lunatone,"['Rock', 'Psychic']",90,55,65,95,85,70,460,https://img.pokemondb.net/sprites/sword-shield/icon/lunatone.png
+401,338,Solrock,"['Rock', 'Psychic']",90,95,85,55,65,70,460,https://img.pokemondb.net/sprites/sword-shield/icon/solrock.png
+402,339,Barboach,"['Water', 'Ground']",50,48,43,46,41,60,288,https://img.pokemondb.net/sprites/sword-shield/icon/barboach.png
+403,340,Whiscash,"['Water', 'Ground']",110,78,73,76,71,60,468,https://img.pokemondb.net/sprites/sword-shield/icon/whiscash.png
+404,341,Corphish,['Water'],43,80,65,50,35,35,308,https://img.pokemondb.net/sprites/sword-shield/icon/corphish.png
+405,342,Crawdaunt,"['Water', 'Dark']",63,120,85,90,55,55,468,https://img.pokemondb.net/sprites/sword-shield/icon/crawdaunt.png
+406,343,Baltoy,"['Ground', 'Psychic']",40,40,55,40,70,55,300,https://img.pokemondb.net/sprites/sword-shield/icon/baltoy.png
+407,344,Claydol,"['Ground', 'Psychic']",60,70,105,70,120,75,500,https://img.pokemondb.net/sprites/sword-shield/icon/claydol.png
+408,345,Lileep,"['Rock', 'Grass']",66,41,77,61,87,23,355,https://img.pokemondb.net/sprites/sword-shield/icon/lileep.png
+409,346,Cradily,"['Rock', 'Grass']",86,81,97,81,107,43,495,https://img.pokemondb.net/sprites/sword-shield/icon/cradily.png
+410,347,Anorith,"['Rock', 'Bug']",45,95,50,40,50,75,355,https://img.pokemondb.net/sprites/sword-shield/icon/anorith.png
+411,348,Armaldo,"['Rock', 'Bug']",75,125,100,70,80,45,495,https://img.pokemondb.net/sprites/sword-shield/icon/armaldo.png
+412,349,Feebas,['Water'],20,15,20,10,55,80,200,https://img.pokemondb.net/sprites/sword-shield/icon/feebas.png
+413,350,Milotic,['Water'],95,60,79,100,125,81,540,https://img.pokemondb.net/sprites/sword-shield/icon/milotic.png
+414,351,Castform,['Normal'],70,70,70,70,70,70,420,https://img.pokemondb.net/sprites/sword-shield/icon/castform.png
+415,351,Sunny Form,['Fire'],70,70,70,70,70,70,420,https://img.pokemondb.net/sprites/sword-shield/icon/castform-sunny.png
+416,351,Rainy Form,['Water'],70,70,70,70,70,70,420,https://img.pokemondb.net/sprites/sword-shield/icon/castform-rainy.png
+417,351,Snowy Form,['Ice'],70,70,70,70,70,70,420,https://img.pokemondb.net/sprites/sword-shield/icon/castform-snowy.png
+418,352,Kecleon,['Normal'],60,90,70,60,120,40,440,https://img.pokemondb.net/sprites/sword-shield/icon/kecleon.png
+419,353,Shuppet,['Ghost'],44,75,35,63,33,45,295,https://img.pokemondb.net/sprites/sword-shield/icon/shuppet.png
+420,354,Banette,['Ghost'],64,115,65,83,63,65,455,https://img.pokemondb.net/sprites/sword-shield/icon/banette.png
+421,354,Mega Banette,['Ghost'],64,165,75,93,83,75,555,https://img.pokemondb.net/sprites/sword-shield/icon/banette-mega.png
+422,355,Duskull,['Ghost'],20,40,90,30,90,25,295,https://img.pokemondb.net/sprites/sword-shield/icon/duskull.png
+423,356,Dusclops,['Ghost'],40,70,130,60,130,25,455,https://img.pokemondb.net/sprites/sword-shield/icon/dusclops.png
+424,357,Tropius,"['Grass', 'Flying']",99,68,83,72,87,51,460,https://img.pokemondb.net/sprites/sword-shield/icon/tropius.png
+425,358,Chimecho,['Psychic'],75,50,80,95,90,65,455,https://img.pokemondb.net/sprites/sword-shield/icon/chimecho.png
+426,359,Absol,['Dark'],65,130,60,75,60,75,465,https://img.pokemondb.net/sprites/sword-shield/icon/absol.png
+427,359,Mega Absol,['Dark'],65,150,60,115,60,115,565,https://img.pokemondb.net/sprites/sword-shield/icon/absol-mega.png
+428,360,Wynaut,['Psychic'],95,23,48,23,48,23,260,https://img.pokemondb.net/sprites/sword-shield/icon/wynaut.png
+429,361,Snorunt,['Ice'],50,50,50,50,50,50,300,https://img.pokemondb.net/sprites/sword-shield/icon/snorunt.png
+430,362,Glalie,['Ice'],80,80,80,80,80,80,480,https://img.pokemondb.net/sprites/sword-shield/icon/glalie.png
+431,362,Mega Glalie,['Ice'],80,120,80,120,80,100,580,https://img.pokemondb.net/sprites/sword-shield/icon/glalie-mega.png
+432,363,Spheal,"['Ice', 'Water']",70,40,50,55,50,25,290,https://img.pokemondb.net/sprites/sword-shield/icon/spheal.png
+433,364,Sealeo,"['Ice', 'Water']",90,60,70,75,70,45,410,https://img.pokemondb.net/sprites/sword-shield/icon/sealeo.png
+434,365,Walrein,"['Ice', 'Water']",110,80,90,95,90,65,530,https://img.pokemondb.net/sprites/sword-shield/icon/walrein.png
+435,366,Clamperl,['Water'],35,64,85,74,55,32,345,https://img.pokemondb.net/sprites/sword-shield/icon/clamperl.png
+436,367,Huntail,['Water'],55,104,105,94,75,52,485,https://img.pokemondb.net/sprites/sword-shield/icon/huntail.png
+437,368,Gorebyss,['Water'],55,84,105,114,75,52,485,https://img.pokemondb.net/sprites/sword-shield/icon/gorebyss.png
+438,369,Relicanth,"['Water', 'Rock']",100,90,130,45,65,55,485,https://img.pokemondb.net/sprites/sword-shield/icon/relicanth.png
+439,370,Luvdisc,['Water'],43,30,55,40,65,97,330,https://img.pokemondb.net/sprites/sword-shield/icon/luvdisc.png
+440,371,Bagon,['Dragon'],45,75,60,40,30,50,300,https://img.pokemondb.net/sprites/sword-shield/icon/bagon.png
+441,372,Shelgon,['Dragon'],65,95,100,60,50,50,420,https://img.pokemondb.net/sprites/sword-shield/icon/shelgon.png
+442,373,Salamence,"['Dragon', 'Flying']",95,135,80,110,80,100,600,https://img.pokemondb.net/sprites/sword-shield/icon/salamence.png
+443,373,Mega Salamence,"['Dragon', 'Flying']",95,145,130,120,90,120,700,https://img.pokemondb.net/sprites/sword-shield/icon/salamence-mega.png
+444,374,Beldum,"['Steel', 'Psychic']",40,55,80,35,60,30,300,https://img.pokemondb.net/sprites/sword-shield/icon/beldum.png
+445,375,Metang,"['Steel', 'Psychic']",60,75,100,55,80,50,420,https://img.pokemondb.net/sprites/sword-shield/icon/metang.png
+446,376,Metagross,"['Steel', 'Psychic']",80,135,130,95,90,70,600,https://img.pokemondb.net/sprites/sword-shield/icon/metagross.png
+447,376,Mega Metagross,"['Steel', 'Psychic']",80,145,150,105,110,110,700,https://img.pokemondb.net/sprites/sword-shield/icon/metagross-mega.png
+448,377,Regirock,['Rock'],80,100,200,50,100,50,580,https://img.pokemondb.net/sprites/sword-shield/icon/regirock.png
+449,378,Regice,['Ice'],80,50,100,100,200,50,580,https://img.pokemondb.net/sprites/sword-shield/icon/regice.png
+450,379,Registeel,['Steel'],80,75,150,75,150,50,580,https://img.pokemondb.net/sprites/sword-shield/icon/registeel.png
+451,380,Latias,"['Dragon', 'Psychic']",80,80,90,110,130,110,600,https://img.pokemondb.net/sprites/sword-shield/icon/latias.png
+452,380,Mega Latias,"['Dragon', 'Psychic']",80,100,120,140,150,110,700,https://img.pokemondb.net/sprites/sword-shield/icon/latias-mega.png
+453,381,Latios,"['Dragon', 'Psychic']",80,90,80,130,110,110,600,https://img.pokemondb.net/sprites/sword-shield/icon/latios.png
+454,381,Mega Latios,"['Dragon', 'Psychic']",80,130,100,160,120,110,700,https://img.pokemondb.net/sprites/sword-shield/icon/latios-mega.png
+455,382,Kyogre,['Water'],100,100,90,150,140,90,670,https://img.pokemondb.net/sprites/sword-shield/icon/kyogre.png
+456,382,Primal Kyogre,['Water'],100,150,90,180,160,90,770,https://img.pokemondb.net/sprites/sword-shield/icon/kyogre-primal.png
+457,383,Groudon,['Ground'],100,150,140,100,90,90,670,https://img.pokemondb.net/sprites/sword-shield/icon/groudon.png
+458,383,Primal Groudon,"['Ground', 'Fire']",100,180,160,150,90,90,770,https://img.pokemondb.net/sprites/sword-shield/icon/groudon-primal.png
+459,384,Rayquaza,"['Dragon', 'Flying']",105,150,90,150,90,95,680,https://img.pokemondb.net/sprites/sword-shield/icon/rayquaza.png
+460,384,Mega Rayquaza,"['Dragon', 'Flying']",105,180,100,180,100,115,780,https://img.pokemondb.net/sprites/sword-shield/icon/rayquaza-mega.png
+461,385,Jirachi,"['Steel', 'Psychic']",100,100,100,100,100,100,600,https://img.pokemondb.net/sprites/sword-shield/icon/jirachi.png
+462,386,Normal Forme,['Psychic'],50,150,50,150,50,150,600,https://img.pokemondb.net/sprites/sword-shield/icon/deoxys-normal.png
+463,386,Attack Forme,['Psychic'],50,180,20,180,20,150,600,https://img.pokemondb.net/sprites/sword-shield/icon/deoxys-attack.png
+464,386,Defense Forme,['Psychic'],50,70,160,70,160,90,600,https://img.pokemondb.net/sprites/sword-shield/icon/deoxys-defense.png
+465,386,Speed Forme,['Psychic'],50,95,90,95,90,180,600,https://img.pokemondb.net/sprites/sword-shield/icon/deoxys-speed.png
+466,387,Turtwig,['Grass'],55,68,64,45,55,31,318,https://img.pokemondb.net/sprites/sword-shield/icon/turtwig.png
+467,388,Grotle,['Grass'],75,89,85,55,65,36,405,https://img.pokemondb.net/sprites/sword-shield/icon/grotle.png
+468,389,Torterra,"['Grass', 'Ground']",95,109,105,75,85,56,525,https://img.pokemondb.net/sprites/sword-shield/icon/torterra.png
+469,390,Chimchar,['Fire'],44,58,44,58,44,61,309,https://img.pokemondb.net/sprites/sword-shield/icon/chimchar.png
+470,391,Monferno,"['Fire', 'Fighting']",64,78,52,78,52,81,405,https://img.pokemondb.net/sprites/sword-shield/icon/monferno.png
+471,392,Infernape,"['Fire', 'Fighting']",76,104,71,104,71,108,534,https://img.pokemondb.net/sprites/sword-shield/icon/infernape.png
+472,393,Piplup,['Water'],53,51,53,61,56,40,314,https://img.pokemondb.net/sprites/sword-shield/icon/piplup.png
+473,394,Prinplup,['Water'],64,66,68,81,76,50,405,https://img.pokemondb.net/sprites/sword-shield/icon/prinplup.png
+474,395,Empoleon,"['Water', 'Steel']",84,86,88,111,101,60,530,https://img.pokemondb.net/sprites/sword-shield/icon/empoleon.png
+475,396,Starly,"['Normal', 'Flying']",40,55,30,30,30,60,245,https://img.pokemondb.net/sprites/sword-shield/icon/starly.png
+476,397,Staravia,"['Normal', 'Flying']",55,75,50,40,40,80,340,https://img.pokemondb.net/sprites/sword-shield/icon/staravia.png
+477,398,Staraptor,"['Normal', 'Flying']",85,120,70,50,60,100,485,https://img.pokemondb.net/sprites/sword-shield/icon/staraptor.png
+478,399,Bidoof,['Normal'],59,45,40,35,40,31,250,https://img.pokemondb.net/sprites/sword-shield/icon/bidoof.png
+479,400,Bibarel,"['Normal', 'Water']",79,85,60,55,60,71,410,https://img.pokemondb.net/sprites/sword-shield/icon/bibarel.png
+480,401,Kricketot,['Bug'],37,25,41,25,41,25,194,https://img.pokemondb.net/sprites/sword-shield/icon/kricketot.png
+481,402,Kricketune,['Bug'],77,85,51,55,51,65,384,https://img.pokemondb.net/sprites/sword-shield/icon/kricketune.png
+482,403,Shinx,['Electric'],45,65,34,40,34,45,263,https://img.pokemondb.net/sprites/sword-shield/icon/shinx.png
+483,404,Luxio,['Electric'],60,85,49,60,49,60,363,https://img.pokemondb.net/sprites/sword-shield/icon/luxio.png
+484,405,Luxray,['Electric'],80,120,79,95,79,70,523,https://img.pokemondb.net/sprites/sword-shield/icon/luxray.png
+485,406,Budew,"['Grass', 'Poison']",40,30,35,50,70,55,280,https://img.pokemondb.net/sprites/sword-shield/icon/budew.png
+486,407,Roserade,"['Grass', 'Poison']",60,70,65,125,105,90,515,https://img.pokemondb.net/sprites/sword-shield/icon/roserade.png
+487,408,Cranidos,['Rock'],67,125,40,30,30,58,350,https://img.pokemondb.net/sprites/sword-shield/icon/cranidos.png
+488,409,Rampardos,['Rock'],97,165,60,65,50,58,495,https://img.pokemondb.net/sprites/sword-shield/icon/rampardos.png
+489,410,Shieldon,"['Rock', 'Steel']",30,42,118,42,88,30,350,https://img.pokemondb.net/sprites/sword-shield/icon/shieldon.png
+490,411,Bastiodon,"['Rock', 'Steel']",60,52,168,47,138,30,495,https://img.pokemondb.net/sprites/sword-shield/icon/bastiodon.png
+491,412,Burmy,['Bug'],40,29,45,29,45,36,224,https://img.pokemondb.net/sprites/sword-shield/icon/burmy.png
+492,413,Plant Cloak,"['Bug', 'Grass']",60,59,85,79,105,36,424,https://img.pokemondb.net/sprites/sword-shield/icon/wormadam-plant.png
+493,413,Sandy Cloak,"['Bug', 'Ground']",60,79,105,59,85,36,424,https://img.pokemondb.net/sprites/sword-shield/icon/wormadam-sandy.png
+494,413,Trash Cloak,"['Bug', 'Steel']",60,69,95,69,95,36,424,https://img.pokemondb.net/sprites/sword-shield/icon/wormadam-trash.png
+495,414,Mothim,"['Bug', 'Flying']",70,94,50,94,50,66,424,https://img.pokemondb.net/sprites/sword-shield/icon/mothim.png
+496,415,Combee,"['Bug', 'Flying']",30,30,42,30,42,70,244,https://img.pokemondb.net/sprites/sword-shield/icon/combee.png
+497,416,Vespiquen,"['Bug', 'Flying']",70,80,102,80,102,40,474,https://img.pokemondb.net/sprites/sword-shield/icon/vespiquen.png
+498,417,Pachirisu,['Electric'],60,45,70,45,90,95,405,https://img.pokemondb.net/sprites/sword-shield/icon/pachirisu.png
+499,418,Buizel,['Water'],55,65,35,60,30,85,330,https://img.pokemondb.net/sprites/sword-shield/icon/buizel.png
+500,419,Floatzel,['Water'],85,105,55,85,50,115,495,https://img.pokemondb.net/sprites/sword-shield/icon/floatzel.png
+501,420,Cherubi,['Grass'],45,35,45,62,53,35,275,https://img.pokemondb.net/sprites/sword-shield/icon/cherubi.png
+502,421,Cherrim,['Grass'],70,60,70,87,78,85,450,https://img.pokemondb.net/sprites/sword-shield/icon/cherrim.png
+503,422,Shellos,['Water'],76,48,48,57,62,34,325,https://img.pokemondb.net/sprites/sword-shield/icon/shellos.png
+504,423,Gastrodon,"['Water', 'Ground']",111,83,68,92,82,39,475,https://img.pokemondb.net/sprites/sword-shield/icon/gastrodon.png
+505,424,Ambipom,['Normal'],75,100,66,60,66,115,482,https://img.pokemondb.net/sprites/sword-shield/icon/ambipom.png
+506,425,Drifloon,"['Ghost', 'Flying']",90,50,34,60,44,70,348,https://img.pokemondb.net/sprites/sword-shield/icon/drifloon.png
+507,426,Drifblim,"['Ghost', 'Flying']",150,80,44,90,54,80,498,https://img.pokemondb.net/sprites/sword-shield/icon/drifblim.png
+508,427,Buneary,['Normal'],55,66,44,44,56,85,350,https://img.pokemondb.net/sprites/sword-shield/icon/buneary.png
+509,428,Lopunny,['Normal'],65,76,84,54,96,105,480,https://img.pokemondb.net/sprites/sword-shield/icon/lopunny.png
+510,428,Mega Lopunny,"['Normal', 'Fighting']",65,136,94,54,96,135,580,https://img.pokemondb.net/sprites/sword-shield/icon/lopunny-mega.png
+511,429,Mismagius,['Ghost'],60,60,60,105,105,105,495,https://img.pokemondb.net/sprites/sword-shield/icon/mismagius.png
+512,430,Honchkrow,"['Dark', 'Flying']",100,125,52,105,52,71,505,https://img.pokemondb.net/sprites/sword-shield/icon/honchkrow.png
+513,431,Glameow,['Normal'],49,55,42,42,37,85,310,https://img.pokemondb.net/sprites/sword-shield/icon/glameow.png
+514,432,Purugly,['Normal'],71,82,64,64,59,112,452,https://img.pokemondb.net/sprites/sword-shield/icon/purugly.png
+515,433,Chingling,['Psychic'],45,30,50,65,50,45,285,https://img.pokemondb.net/sprites/sword-shield/icon/chingling.png
+516,434,Stunky,"['Poison', 'Dark']",63,63,47,41,41,74,329,https://img.pokemondb.net/sprites/sword-shield/icon/stunky.png
+517,435,Skuntank,"['Poison', 'Dark']",103,93,67,71,61,84,479,https://img.pokemondb.net/sprites/sword-shield/icon/skuntank.png
+518,436,Bronzor,"['Steel', 'Psychic']",57,24,86,24,86,23,300,https://img.pokemondb.net/sprites/sword-shield/icon/bronzor.png
+519,437,Bronzong,"['Steel', 'Psychic']",67,89,116,79,116,33,500,https://img.pokemondb.net/sprites/sword-shield/icon/bronzong.png
+520,438,Bonsly,['Rock'],50,80,95,10,45,10,290,https://img.pokemondb.net/sprites/sword-shield/icon/bonsly.png
+521,439,Mime Jr.,"['Psychic', 'Fairy']",20,25,45,70,90,60,310,https://img.pokemondb.net/sprites/sword-shield/icon/mime-jr.png
+522,440,Happiny,['Normal'],100,5,5,15,65,30,220,https://img.pokemondb.net/sprites/sword-shield/icon/happiny.png
+523,441,Chatot,"['Normal', 'Flying']",76,65,45,92,42,91,411,https://img.pokemondb.net/sprites/sword-shield/icon/chatot.png
+524,442,Spiritomb,"['Ghost', 'Dark']",50,92,108,92,108,35,485,https://img.pokemondb.net/sprites/sword-shield/icon/spiritomb.png
+525,443,Gible,"['Dragon', 'Ground']",58,70,45,40,45,42,300,https://img.pokemondb.net/sprites/sword-shield/icon/gible.png
+526,444,Gabite,"['Dragon', 'Ground']",68,90,65,50,55,82,410,https://img.pokemondb.net/sprites/sword-shield/icon/gabite.png
+527,445,Garchomp,"['Dragon', 'Ground']",108,130,95,80,85,102,600,https://img.pokemondb.net/sprites/sword-shield/icon/garchomp.png
+528,445,Mega Garchomp,"['Dragon', 'Ground']",108,170,115,120,95,92,700,https://img.pokemondb.net/sprites/sword-shield/icon/garchomp-mega.png
+529,446,Munchlax,['Normal'],135,85,40,40,85,5,390,https://img.pokemondb.net/sprites/sword-shield/icon/munchlax.png
+530,447,Riolu,['Fighting'],40,70,40,35,40,60,285,https://img.pokemondb.net/sprites/sword-shield/icon/riolu.png
+531,448,Lucario,"['Fighting', 'Steel']",70,110,70,115,70,90,525,https://img.pokemondb.net/sprites/sword-shield/icon/lucario.png
+532,448,Mega Lucario,"['Fighting', 'Steel']",70,145,88,140,70,112,625,https://img.pokemondb.net/sprites/sword-shield/icon/lucario-mega.png
+533,449,Hippopotas,['Ground'],68,72,78,38,42,32,330,https://img.pokemondb.net/sprites/sword-shield/icon/hippopotas.png
+534,450,Hippowdon,['Ground'],108,112,118,68,72,47,525,https://img.pokemondb.net/sprites/sword-shield/icon/hippowdon.png
+535,451,Skorupi,"['Poison', 'Bug']",40,50,90,30,55,65,330,https://img.pokemondb.net/sprites/sword-shield/icon/skorupi.png
+536,452,Drapion,"['Poison', 'Dark']",70,90,110,60,75,95,500,https://img.pokemondb.net/sprites/sword-shield/icon/drapion.png
+537,453,Croagunk,"['Poison', 'Fighting']",48,61,40,61,40,50,300,https://img.pokemondb.net/sprites/sword-shield/icon/croagunk.png
+538,454,Toxicroak,"['Poison', 'Fighting']",83,106,65,86,65,85,490,https://img.pokemondb.net/sprites/sword-shield/icon/toxicroak.png
+539,455,Carnivine,['Grass'],74,100,72,90,72,46,454,https://img.pokemondb.net/sprites/sword-shield/icon/carnivine.png
+540,456,Finneon,['Water'],49,49,56,49,61,66,330,https://img.pokemondb.net/sprites/sword-shield/icon/finneon.png
+541,457,Lumineon,['Water'],69,69,76,69,86,91,460,https://img.pokemondb.net/sprites/sword-shield/icon/lumineon.png
+542,458,Mantyke,"['Water', 'Flying']",45,20,50,60,120,50,345,https://img.pokemondb.net/sprites/sword-shield/icon/mantyke.png
+543,459,Snover,"['Grass', 'Ice']",60,62,50,62,60,40,334,https://img.pokemondb.net/sprites/sword-shield/icon/snover.png
+544,460,Abomasnow,"['Grass', 'Ice']",90,92,75,92,85,60,494,https://img.pokemondb.net/sprites/sword-shield/icon/abomasnow.png
+545,460,Mega Abomasnow,"['Grass', 'Ice']",90,132,105,132,105,30,594,https://img.pokemondb.net/sprites/sword-shield/icon/abomasnow-mega.png
+546,461,Weavile,"['Dark', 'Ice']",70,120,65,45,85,125,510,https://img.pokemondb.net/sprites/sword-shield/icon/weavile.png
+547,462,Magnezone,"['Electric', 'Steel']",70,70,115,130,90,60,535,https://img.pokemondb.net/sprites/sword-shield/icon/magnezone.png
+548,463,Lickilicky,['Normal'],110,85,95,80,95,50,515,https://img.pokemondb.net/sprites/sword-shield/icon/lickilicky.png
+549,464,Rhyperior,"['Ground', 'Rock']",115,140,130,55,55,40,535,https://img.pokemondb.net/sprites/sword-shield/icon/rhyperior.png
+550,465,Tangrowth,['Grass'],100,100,125,110,50,50,535,https://img.pokemondb.net/sprites/sword-shield/icon/tangrowth.png
+551,466,Electivire,['Electric'],75,123,67,95,85,95,540,https://img.pokemondb.net/sprites/sword-shield/icon/electivire.png
+552,467,Magmortar,['Fire'],75,95,67,125,95,83,540,https://img.pokemondb.net/sprites/sword-shield/icon/magmortar.png
+553,468,Togekiss,"['Fairy', 'Flying']",85,50,95,120,115,80,545,https://img.pokemondb.net/sprites/sword-shield/icon/togekiss.png
+554,469,Yanmega,"['Bug', 'Flying']",86,76,86,116,56,95,515,https://img.pokemondb.net/sprites/sword-shield/icon/yanmega.png
+555,470,Leafeon,['Grass'],65,110,130,60,65,95,525,https://img.pokemondb.net/sprites/sword-shield/icon/leafeon.png
+556,471,Glaceon,['Ice'],65,60,110,130,95,65,525,https://img.pokemondb.net/sprites/sword-shield/icon/glaceon.png
+557,472,Gliscor,"['Ground', 'Flying']",75,95,125,45,75,95,510,https://img.pokemondb.net/sprites/sword-shield/icon/gliscor.png
+558,473,Mamoswine,"['Ice', 'Ground']",110,130,80,70,60,80,530,https://img.pokemondb.net/sprites/sword-shield/icon/mamoswine.png
+559,474,Porygon-Z,['Normal'],85,80,70,135,75,90,535,https://img.pokemondb.net/sprites/sword-shield/icon/porygon-z.png
+560,475,Gallade,"['Psychic', 'Fighting']",68,125,65,65,115,80,518,https://img.pokemondb.net/sprites/sword-shield/icon/gallade.png
+561,475,Mega Gallade,"['Psychic', 'Fighting']",68,165,95,65,115,110,618,https://img.pokemondb.net/sprites/sword-shield/icon/gallade-mega.png
+562,476,Probopass,"['Rock', 'Steel']",60,55,145,75,150,40,525,https://img.pokemondb.net/sprites/sword-shield/icon/probopass.png
+563,477,Dusknoir,['Ghost'],45,100,135,65,135,45,525,https://img.pokemondb.net/sprites/sword-shield/icon/dusknoir.png
+564,478,Froslass,"['Ice', 'Ghost']",70,80,70,80,70,110,480,https://img.pokemondb.net/sprites/sword-shield/icon/froslass.png
+565,479,Rotom,"['Electric', 'Ghost']",50,50,77,95,77,91,440,https://img.pokemondb.net/sprites/sword-shield/icon/rotom.png
+566,479,Heat Rotom,"['Electric', 'Fire']",50,65,107,105,107,86,520,https://img.pokemondb.net/sprites/sword-shield/icon/rotom-heat.png
+567,479,Wash Rotom,"['Electric', 'Water']",50,65,107,105,107,86,520,https://img.pokemondb.net/sprites/sword-shield/icon/rotom-wash.png
+568,479,Frost Rotom,"['Electric', 'Ice']",50,65,107,105,107,86,520,https://img.pokemondb.net/sprites/sword-shield/icon/rotom-frost.png
+569,479,Fan Rotom,"['Electric', 'Flying']",50,65,107,105,107,86,520,https://img.pokemondb.net/sprites/sword-shield/icon/rotom-fan.png
+570,479,Mow Rotom,"['Electric', 'Grass']",50,65,107,105,107,86,520,https://img.pokemondb.net/sprites/sword-shield/icon/rotom-mow.png
+571,480,Uxie,['Psychic'],75,75,130,75,130,95,580,https://img.pokemondb.net/sprites/sword-shield/icon/uxie.png
+572,481,Mesprit,['Psychic'],80,105,105,105,105,80,580,https://img.pokemondb.net/sprites/sword-shield/icon/mesprit.png
+573,482,Azelf,['Psychic'],75,125,70,125,70,115,580,https://img.pokemondb.net/sprites/sword-shield/icon/azelf.png
+574,483,Dialga,"['Steel', 'Dragon']",100,120,120,150,100,90,680,https://img.pokemondb.net/sprites/sword-shield/icon/dialga.png
+575,484,Palkia,"['Water', 'Dragon']",90,120,100,150,120,100,680,https://img.pokemondb.net/sprites/sword-shield/icon/palkia.png
+576,485,Heatran,"['Fire', 'Steel']",91,90,106,130,106,77,600,https://img.pokemondb.net/sprites/sword-shield/icon/heatran.png
+577,486,Regigigas,['Normal'],110,160,110,80,110,100,670,https://img.pokemondb.net/sprites/sword-shield/icon/regigigas.png
+578,487,Altered Forme,"['Ghost', 'Dragon']",150,100,120,100,120,90,680,https://img.pokemondb.net/sprites/sword-shield/icon/giratina-altered.png
+579,487,Origin Forme,"['Ghost', 'Dragon']",150,120,100,120,100,90,680,https://img.pokemondb.net/sprites/sword-shield/icon/giratina-origin.png
+580,488,Cresselia,['Psychic'],120,70,120,75,130,85,600,https://img.pokemondb.net/sprites/sword-shield/icon/cresselia.png
+581,489,Phione,['Water'],80,80,80,80,80,80,480,https://img.pokemondb.net/sprites/sword-shield/icon/phione.png
+582,490,Manaphy,['Water'],100,100,100,100,100,100,600,https://img.pokemondb.net/sprites/sword-shield/icon/manaphy.png
+583,491,Darkrai,['Dark'],70,90,90,135,90,125,600,https://img.pokemondb.net/sprites/sword-shield/icon/darkrai.png
+584,492,Land Forme,['Grass'],100,100,100,100,100,100,600,https://img.pokemondb.net/sprites/sword-shield/icon/shaymin-land.png
+585,492,Sky Forme,"['Grass', 'Flying']",100,103,75,120,75,127,600,https://img.pokemondb.net/sprites/sword-shield/icon/shaymin-sky.png
+586,493,Arceus,['Normal'],120,120,120,120,120,120,720,https://img.pokemondb.net/sprites/sword-shield/icon/arceus.png
+587,494,Victini,"['Psychic', 'Fire']",100,100,100,100,100,100,600,https://img.pokemondb.net/sprites/sword-shield/icon/victini.png
+588,495,Snivy,['Grass'],45,45,55,45,55,63,308,https://img.pokemondb.net/sprites/sword-shield/icon/snivy.png
+589,496,Servine,['Grass'],60,60,75,60,75,83,413,https://img.pokemondb.net/sprites/sword-shield/icon/servine.png
+590,497,Serperior,['Grass'],75,75,95,75,95,113,528,https://img.pokemondb.net/sprites/sword-shield/icon/serperior.png
+591,498,Tepig,['Fire'],65,63,45,45,45,45,308,https://img.pokemondb.net/sprites/sword-shield/icon/tepig.png
+592,499,Pignite,"['Fire', 'Fighting']",90,93,55,70,55,55,418,https://img.pokemondb.net/sprites/sword-shield/icon/pignite.png
+593,500,Emboar,"['Fire', 'Fighting']",110,123,65,100,65,65,528,https://img.pokemondb.net/sprites/sword-shield/icon/emboar.png
+594,501,Oshawott,['Water'],55,55,45,63,45,45,308,https://img.pokemondb.net/sprites/sword-shield/icon/oshawott.png
+595,502,Dewott,['Water'],75,75,60,83,60,60,413,https://img.pokemondb.net/sprites/sword-shield/icon/dewott.png
+596,503,Samurott,['Water'],95,100,85,108,70,70,528,https://img.pokemondb.net/sprites/sword-shield/icon/samurott.png
+597,504,Patrat,['Normal'],45,55,39,35,39,42,255,https://img.pokemondb.net/sprites/sword-shield/icon/patrat.png
+598,505,Watchog,['Normal'],60,85,69,60,69,77,420,https://img.pokemondb.net/sprites/sword-shield/icon/watchog.png
+599,506,Lillipup,['Normal'],45,60,45,25,45,55,275,https://img.pokemondb.net/sprites/sword-shield/icon/lillipup.png
+600,507,Herdier,['Normal'],65,80,65,35,65,60,370,https://img.pokemondb.net/sprites/sword-shield/icon/herdier.png
+601,508,Stoutland,['Normal'],85,110,90,45,90,80,500,https://img.pokemondb.net/sprites/sword-shield/icon/stoutland.png
+602,509,Purrloin,['Dark'],41,50,37,50,37,66,281,https://img.pokemondb.net/sprites/sword-shield/icon/purrloin.png
+603,510,Liepard,['Dark'],64,88,50,88,50,106,446,https://img.pokemondb.net/sprites/sword-shield/icon/liepard.png
+604,511,Pansage,['Grass'],50,53,48,53,48,64,316,https://img.pokemondb.net/sprites/sword-shield/icon/pansage.png
+605,512,Simisage,['Grass'],75,98,63,98,63,101,498,https://img.pokemondb.net/sprites/sword-shield/icon/simisage.png
+606,513,Pansear,['Fire'],50,53,48,53,48,64,316,https://img.pokemondb.net/sprites/sword-shield/icon/pansear.png
+607,514,Simisear,['Fire'],75,98,63,98,63,101,498,https://img.pokemondb.net/sprites/sword-shield/icon/simisear.png
+608,515,Panpour,['Water'],50,53,48,53,48,64,316,https://img.pokemondb.net/sprites/sword-shield/icon/panpour.png
+609,516,Simipour,['Water'],75,98,63,98,63,101,498,https://img.pokemondb.net/sprites/sword-shield/icon/simipour.png
+610,517,Munna,['Psychic'],76,25,45,67,55,24,292,https://img.pokemondb.net/sprites/sword-shield/icon/munna.png
+611,518,Musharna,['Psychic'],116,55,85,107,95,29,487,https://img.pokemondb.net/sprites/sword-shield/icon/musharna.png
+612,519,Pidove,"['Normal', 'Flying']",50,55,50,36,30,43,264,https://img.pokemondb.net/sprites/sword-shield/icon/pidove.png
+613,520,Tranquill,"['Normal', 'Flying']",62,77,62,50,42,65,358,https://img.pokemondb.net/sprites/sword-shield/icon/tranquill.png
+614,521,Unfezant,"['Normal', 'Flying']",80,115,80,65,55,93,488,https://img.pokemondb.net/sprites/sword-shield/icon/unfezant.png
+615,522,Blitzle,['Electric'],45,60,32,50,32,76,295,https://img.pokemondb.net/sprites/sword-shield/icon/blitzle.png
+616,523,Zebstrika,['Electric'],75,100,63,80,63,116,497,https://img.pokemondb.net/sprites/sword-shield/icon/zebstrika.png
+617,524,Roggenrola,['Rock'],55,75,85,25,25,15,280,https://img.pokemondb.net/sprites/sword-shield/icon/roggenrola.png
+618,525,Boldore,['Rock'],70,105,105,50,40,20,390,https://img.pokemondb.net/sprites/sword-shield/icon/boldore.png
+619,526,Gigalith,['Rock'],85,135,130,60,80,25,515,https://img.pokemondb.net/sprites/sword-shield/icon/gigalith.png
+620,527,Woobat,"['Psychic', 'Flying']",65,45,43,55,43,72,323,https://img.pokemondb.net/sprites/sword-shield/icon/woobat.png
+621,528,Swoobat,"['Psychic', 'Flying']",67,57,55,77,55,114,425,https://img.pokemondb.net/sprites/sword-shield/icon/swoobat.png
+622,529,Drilbur,['Ground'],60,85,40,30,45,68,328,https://img.pokemondb.net/sprites/sword-shield/icon/drilbur.png
+623,530,Excadrill,"['Ground', 'Steel']",110,135,60,50,65,88,508,https://img.pokemondb.net/sprites/sword-shield/icon/excadrill.png
+624,531,Audino,['Normal'],103,60,86,60,86,50,445,https://img.pokemondb.net/sprites/sword-shield/icon/audino.png
+625,531,Mega Audino,"['Normal', 'Fairy']",103,60,126,80,126,50,545,https://img.pokemondb.net/sprites/sword-shield/icon/audino-mega.png
+626,532,Timburr,['Fighting'],75,80,55,25,35,35,305,https://img.pokemondb.net/sprites/sword-shield/icon/timburr.png
+627,533,Gurdurr,['Fighting'],85,105,85,40,50,40,405,https://img.pokemondb.net/sprites/sword-shield/icon/gurdurr.png
+628,534,Conkeldurr,['Fighting'],105,140,95,55,65,45,505,https://img.pokemondb.net/sprites/sword-shield/icon/conkeldurr.png
+629,535,Tympole,['Water'],50,50,40,50,40,64,294,https://img.pokemondb.net/sprites/sword-shield/icon/tympole.png
+630,536,Palpitoad,"['Water', 'Ground']",75,65,55,65,55,69,384,https://img.pokemondb.net/sprites/sword-shield/icon/palpitoad.png
+631,537,Seismitoad,"['Water', 'Ground']",105,95,75,85,75,74,509,https://img.pokemondb.net/sprites/sword-shield/icon/seismitoad.png
+632,538,Throh,['Fighting'],120,100,85,30,85,45,465,https://img.pokemondb.net/sprites/sword-shield/icon/throh.png
+633,539,Sawk,['Fighting'],75,125,75,30,75,85,465,https://img.pokemondb.net/sprites/sword-shield/icon/sawk.png
+634,540,Sewaddle,"['Bug', 'Grass']",45,53,70,40,60,42,310,https://img.pokemondb.net/sprites/sword-shield/icon/sewaddle.png
+635,541,Swadloon,"['Bug', 'Grass']",55,63,90,50,80,42,380,https://img.pokemondb.net/sprites/sword-shield/icon/swadloon.png
+636,542,Leavanny,"['Bug', 'Grass']",75,103,80,70,80,92,500,https://img.pokemondb.net/sprites/sword-shield/icon/leavanny.png
+637,543,Venipede,"['Bug', 'Poison']",30,45,59,30,39,57,260,https://img.pokemondb.net/sprites/sword-shield/icon/venipede.png
+638,544,Whirlipede,"['Bug', 'Poison']",40,55,99,40,79,47,360,https://img.pokemondb.net/sprites/sword-shield/icon/whirlipede.png
+639,545,Scolipede,"['Bug', 'Poison']",60,100,89,55,69,112,485,https://img.pokemondb.net/sprites/sword-shield/icon/scolipede.png
+640,546,Cottonee,"['Grass', 'Fairy']",40,27,60,37,50,66,280,https://img.pokemondb.net/sprites/sword-shield/icon/cottonee.png
+641,547,Whimsicott,"['Grass', 'Fairy']",60,67,85,77,75,116,480,https://img.pokemondb.net/sprites/sword-shield/icon/whimsicott.png
+642,548,Petilil,['Grass'],45,35,50,70,50,30,280,https://img.pokemondb.net/sprites/sword-shield/icon/petilil.png
+643,549,Lilligant,['Grass'],70,60,75,110,75,90,480,https://img.pokemondb.net/sprites/sword-shield/icon/lilligant.png
+644,550,Red-Striped Form,['Water'],70,92,65,80,55,98,460,https://img.pokemondb.net/sprites/sword-shield/icon/basculin-red-striped.png
+645,550,Blue-Striped Form,['Water'],70,92,65,80,55,98,460,https://img.pokemondb.net/sprites/sword-shield/icon/basculin-blue-striped.png
+646,551,Sandile,"['Ground', 'Dark']",50,72,35,35,35,65,292,https://img.pokemondb.net/sprites/sword-shield/icon/sandile.png
+647,552,Krokorok,"['Ground', 'Dark']",60,82,45,45,45,74,351,https://img.pokemondb.net/sprites/sword-shield/icon/krokorok.png
+648,553,Krookodile,"['Ground', 'Dark']",95,117,80,65,70,92,519,https://img.pokemondb.net/sprites/sword-shield/icon/krookodile.png
+649,554,Darumaka,['Fire'],70,90,45,15,45,50,315,https://img.pokemondb.net/sprites/sword-shield/icon/darumaka.png
+650,554,Galarian Darumaka,['Ice'],70,90,45,15,45,50,315,https://img.pokemondb.net/sprites/sword-shield/icon/darumaka-galarian.png
+651,555,Standard Mode,['Fire'],105,140,55,30,55,95,480,https://img.pokemondb.net/sprites/sword-shield/icon/darmanitan-standard.png
+652,555,Zen Mode,"['Fire', 'Psychic']",105,30,105,140,105,55,540,https://img.pokemondb.net/sprites/sword-shield/icon/darmanitan-zen.png
+653,555,Galarian Standard Mode,['Ice'],105,140,55,30,55,95,480,https://img.pokemondb.net/sprites/sword-shield/icon/darmanitan-galarian-standard.png
+654,555,Galarian Zen Mode,"['Ice', 'Fire']",105,160,55,30,55,135,540,https://img.pokemondb.net/sprites/sword-shield/icon/darmanitan-galarian-zen.png
+655,556,Maractus,['Grass'],75,86,67,106,67,60,461,https://img.pokemondb.net/sprites/sword-shield/icon/maractus.png
+656,557,Dwebble,"['Bug', 'Rock']",50,65,85,35,35,55,325,https://img.pokemondb.net/sprites/sword-shield/icon/dwebble.png
+657,558,Crustle,"['Bug', 'Rock']",70,105,125,65,75,45,485,https://img.pokemondb.net/sprites/sword-shield/icon/crustle.png
+658,559,Scraggy,"['Dark', 'Fighting']",50,75,70,35,70,48,348,https://img.pokemondb.net/sprites/sword-shield/icon/scraggy.png
+659,560,Scrafty,"['Dark', 'Fighting']",65,90,115,45,115,58,488,https://img.pokemondb.net/sprites/sword-shield/icon/scrafty.png
+660,561,Sigilyph,"['Psychic', 'Flying']",72,58,80,103,80,97,490,https://img.pokemondb.net/sprites/sword-shield/icon/sigilyph.png
+661,562,Yamask,['Ghost'],38,30,85,55,65,30,303,https://img.pokemondb.net/sprites/sword-shield/icon/yamask.png
+662,562,Galarian Yamask,"['Ground', 'Ghost']",38,55,85,30,65,30,303,https://img.pokemondb.net/sprites/sword-shield/icon/yamask-galarian.png
+663,563,Cofagrigus,['Ghost'],58,50,145,95,105,30,483,https://img.pokemondb.net/sprites/sword-shield/icon/cofagrigus.png
+664,564,Tirtouga,"['Water', 'Rock']",54,78,103,53,45,22,355,https://img.pokemondb.net/sprites/sword-shield/icon/tirtouga.png
+665,565,Carracosta,"['Water', 'Rock']",74,108,133,83,65,32,495,https://img.pokemondb.net/sprites/sword-shield/icon/carracosta.png
+666,566,Archen,"['Rock', 'Flying']",55,112,45,74,45,70,401,https://img.pokemondb.net/sprites/sword-shield/icon/archen.png
+667,567,Archeops,"['Rock', 'Flying']",75,140,65,112,65,110,567,https://img.pokemondb.net/sprites/sword-shield/icon/archeops.png
+668,568,Trubbish,['Poison'],50,50,62,40,62,65,329,https://img.pokemondb.net/sprites/sword-shield/icon/trubbish.png
+669,569,Garbodor,['Poison'],80,95,82,60,82,75,474,https://img.pokemondb.net/sprites/sword-shield/icon/garbodor.png
+670,570,Zorua,['Dark'],40,65,40,80,40,65,330,https://img.pokemondb.net/sprites/sword-shield/icon/zorua.png
+671,571,Zoroark,['Dark'],60,105,60,120,60,105,510,https://img.pokemondb.net/sprites/sword-shield/icon/zoroark.png
+672,572,Minccino,['Normal'],55,50,40,40,40,75,300,https://img.pokemondb.net/sprites/sword-shield/icon/minccino.png
+673,573,Cinccino,['Normal'],75,95,60,65,60,115,470,https://img.pokemondb.net/sprites/sword-shield/icon/cinccino.png
+674,574,Gothita,['Psychic'],45,30,50,55,65,45,290,https://img.pokemondb.net/sprites/sword-shield/icon/gothita.png
+675,575,Gothorita,['Psychic'],60,45,70,75,85,55,390,https://img.pokemondb.net/sprites/sword-shield/icon/gothorita.png
+676,576,Gothitelle,['Psychic'],70,55,95,95,110,65,490,https://img.pokemondb.net/sprites/sword-shield/icon/gothitelle.png
+677,577,Solosis,['Psychic'],45,30,40,105,50,20,290,https://img.pokemondb.net/sprites/sword-shield/icon/solosis.png
+678,578,Duosion,['Psychic'],65,40,50,125,60,30,370,https://img.pokemondb.net/sprites/sword-shield/icon/duosion.png
+679,579,Reuniclus,['Psychic'],110,65,75,125,85,30,490,https://img.pokemondb.net/sprites/sword-shield/icon/reuniclus.png
+680,580,Ducklett,"['Water', 'Flying']",62,44,50,44,50,55,305,https://img.pokemondb.net/sprites/sword-shield/icon/ducklett.png
+681,581,Swanna,"['Water', 'Flying']",75,87,63,87,63,98,473,https://img.pokemondb.net/sprites/sword-shield/icon/swanna.png
+682,582,Vanillite,['Ice'],36,50,50,65,60,44,305,https://img.pokemondb.net/sprites/sword-shield/icon/vanillite.png
+683,583,Vanillish,['Ice'],51,65,65,80,75,59,395,https://img.pokemondb.net/sprites/sword-shield/icon/vanillish.png
+684,584,Vanilluxe,['Ice'],71,95,85,110,95,79,535,https://img.pokemondb.net/sprites/sword-shield/icon/vanilluxe.png
+685,585,Deerling,"['Normal', 'Grass']",60,60,50,40,50,75,335,https://img.pokemondb.net/sprites/sword-shield/icon/deerling.png
+686,586,Sawsbuck,"['Normal', 'Grass']",80,100,70,60,70,95,475,https://img.pokemondb.net/sprites/sword-shield/icon/sawsbuck.png
+687,587,Emolga,"['Electric', 'Flying']",55,75,60,75,60,103,428,https://img.pokemondb.net/sprites/sword-shield/icon/emolga.png
+688,588,Karrablast,['Bug'],50,75,45,40,45,60,315,https://img.pokemondb.net/sprites/sword-shield/icon/karrablast.png
+689,589,Escavalier,"['Bug', 'Steel']",70,135,105,60,105,20,495,https://img.pokemondb.net/sprites/sword-shield/icon/escavalier.png
+690,590,Foongus,"['Grass', 'Poison']",69,55,45,55,55,15,294,https://img.pokemondb.net/sprites/sword-shield/icon/foongus.png
+691,591,Amoonguss,"['Grass', 'Poison']",114,85,70,85,80,30,464,https://img.pokemondb.net/sprites/sword-shield/icon/amoonguss.png
+692,592,Frillish,"['Water', 'Ghost']",55,40,50,65,85,40,335,https://img.pokemondb.net/sprites/sword-shield/icon/frillish.png
+693,593,Jellicent,"['Water', 'Ghost']",100,60,70,85,105,60,480,https://img.pokemondb.net/sprites/sword-shield/icon/jellicent.png
+694,594,Alomomola,['Water'],165,75,80,40,45,65,470,https://img.pokemondb.net/sprites/sword-shield/icon/alomomola.png
+695,595,Joltik,"['Bug', 'Electric']",50,47,50,57,50,65,319,https://img.pokemondb.net/sprites/sword-shield/icon/joltik.png
+696,596,Galvantula,"['Bug', 'Electric']",70,77,60,97,60,108,472,https://img.pokemondb.net/sprites/sword-shield/icon/galvantula.png
+697,597,Ferroseed,"['Grass', 'Steel']",44,50,91,24,86,10,305,https://img.pokemondb.net/sprites/sword-shield/icon/ferroseed.png
+698,598,Ferrothorn,"['Grass', 'Steel']",74,94,131,54,116,20,489,https://img.pokemondb.net/sprites/sword-shield/icon/ferrothorn.png
+699,599,Klink,['Steel'],40,55,70,45,60,30,300,https://img.pokemondb.net/sprites/sword-shield/icon/klink.png
+700,600,Klang,['Steel'],60,80,95,70,85,50,440,https://img.pokemondb.net/sprites/sword-shield/icon/klang.png
+701,601,Klinklang,['Steel'],60,100,115,70,85,90,520,https://img.pokemondb.net/sprites/sword-shield/icon/klinklang.png
+702,602,Tynamo,['Electric'],35,55,40,45,40,60,275,https://img.pokemondb.net/sprites/sword-shield/icon/tynamo.png
+703,603,Eelektrik,['Electric'],65,85,70,75,70,40,405,https://img.pokemondb.net/sprites/sword-shield/icon/eelektrik.png
+704,604,Eelektross,['Electric'],85,115,80,105,80,50,515,https://img.pokemondb.net/sprites/sword-shield/icon/eelektross.png
+705,605,Elgyem,['Psychic'],55,55,55,85,55,30,335,https://img.pokemondb.net/sprites/sword-shield/icon/elgyem.png
+706,606,Beheeyem,['Psychic'],75,75,75,125,95,40,485,https://img.pokemondb.net/sprites/sword-shield/icon/beheeyem.png
+707,607,Litwick,"['Ghost', 'Fire']",50,30,55,65,55,20,275,https://img.pokemondb.net/sprites/sword-shield/icon/litwick.png
+708,608,Lampent,"['Ghost', 'Fire']",60,40,60,95,60,55,370,https://img.pokemondb.net/sprites/sword-shield/icon/lampent.png
+709,609,Chandelure,"['Ghost', 'Fire']",60,55,90,145,90,80,520,https://img.pokemondb.net/sprites/sword-shield/icon/chandelure.png
+710,610,Axew,['Dragon'],46,87,60,30,40,57,320,https://img.pokemondb.net/sprites/sword-shield/icon/axew.png
+711,611,Fraxure,['Dragon'],66,117,70,40,50,67,410,https://img.pokemondb.net/sprites/sword-shield/icon/fraxure.png
+712,612,Haxorus,['Dragon'],76,147,90,60,70,97,540,https://img.pokemondb.net/sprites/sword-shield/icon/haxorus.png
+713,613,Cubchoo,['Ice'],55,70,40,60,40,40,305,https://img.pokemondb.net/sprites/sword-shield/icon/cubchoo.png
+714,614,Beartic,['Ice'],95,130,80,70,80,50,505,https://img.pokemondb.net/sprites/sword-shield/icon/beartic.png
+715,615,Cryogonal,['Ice'],80,50,50,95,135,105,515,https://img.pokemondb.net/sprites/sword-shield/icon/cryogonal.png
+716,616,Shelmet,['Bug'],50,40,85,40,65,25,305,https://img.pokemondb.net/sprites/sword-shield/icon/shelmet.png
+717,617,Accelgor,['Bug'],80,70,40,100,60,145,495,https://img.pokemondb.net/sprites/sword-shield/icon/accelgor.png
+718,618,Stunfisk,"['Ground', 'Electric']",109,66,84,81,99,32,471,https://img.pokemondb.net/sprites/sword-shield/icon/stunfisk.png
+719,618,Galarian Stunfisk,"['Ground', 'Steel']",109,81,99,66,84,32,471,https://img.pokemondb.net/sprites/sword-shield/icon/stunfisk-galarian.png
+720,619,Mienfoo,['Fighting'],45,85,50,55,50,65,350,https://img.pokemondb.net/sprites/sword-shield/icon/mienfoo.png
+721,620,Mienshao,['Fighting'],65,125,60,95,60,105,510,https://img.pokemondb.net/sprites/sword-shield/icon/mienshao.png
+722,621,Druddigon,['Dragon'],77,120,90,60,90,48,485,https://img.pokemondb.net/sprites/sword-shield/icon/druddigon.png
+723,622,Golett,"['Ground', 'Ghost']",59,74,50,35,50,35,303,https://img.pokemondb.net/sprites/sword-shield/icon/golett.png
+724,623,Golurk,"['Ground', 'Ghost']",89,124,80,55,80,55,483,https://img.pokemondb.net/sprites/sword-shield/icon/golurk.png
+725,624,Pawniard,"['Dark', 'Steel']",45,85,70,40,40,60,340,https://img.pokemondb.net/sprites/sword-shield/icon/pawniard.png
+726,625,Bisharp,"['Dark', 'Steel']",65,125,100,60,70,70,490,https://img.pokemondb.net/sprites/sword-shield/icon/bisharp.png
+727,626,Bouffalant,['Normal'],95,110,95,40,95,55,490,https://img.pokemondb.net/sprites/sword-shield/icon/bouffalant.png
+728,627,Rufflet,"['Normal', 'Flying']",70,83,50,37,50,60,350,https://img.pokemondb.net/sprites/sword-shield/icon/rufflet.png
+729,628,Braviary,"['Normal', 'Flying']",100,123,75,57,75,80,510,https://img.pokemondb.net/sprites/sword-shield/icon/braviary.png
+730,629,Vullaby,"['Dark', 'Flying']",70,55,75,45,65,60,370,https://img.pokemondb.net/sprites/sword-shield/icon/vullaby.png
+731,630,Mandibuzz,"['Dark', 'Flying']",110,65,105,55,95,80,510,https://img.pokemondb.net/sprites/sword-shield/icon/mandibuzz.png
+732,631,Heatmor,['Fire'],85,97,66,105,66,65,484,https://img.pokemondb.net/sprites/sword-shield/icon/heatmor.png
+733,632,Durant,"['Bug', 'Steel']",58,109,112,48,48,109,484,https://img.pokemondb.net/sprites/sword-shield/icon/durant.png
+734,633,Deino,"['Dark', 'Dragon']",52,65,50,45,50,38,300,https://img.pokemondb.net/sprites/sword-shield/icon/deino.png
+735,634,Zweilous,"['Dark', 'Dragon']",72,85,70,65,70,58,420,https://img.pokemondb.net/sprites/sword-shield/icon/zweilous.png
+736,635,Hydreigon,"['Dark', 'Dragon']",92,105,90,125,90,98,600,https://img.pokemondb.net/sprites/sword-shield/icon/hydreigon.png
+737,636,Larvesta,"['Bug', 'Fire']",55,85,55,50,55,60,360,https://img.pokemondb.net/sprites/sword-shield/icon/larvesta.png
+738,637,Volcarona,"['Bug', 'Fire']",85,60,65,135,105,100,550,https://img.pokemondb.net/sprites/sword-shield/icon/volcarona.png
+739,638,Cobalion,"['Steel', 'Fighting']",91,90,129,90,72,108,580,https://img.pokemondb.net/sprites/sword-shield/icon/cobalion.png
+740,639,Terrakion,"['Rock', 'Fighting']",91,129,90,72,90,108,580,https://img.pokemondb.net/sprites/sword-shield/icon/terrakion.png
+741,640,Virizion,"['Grass', 'Fighting']",91,90,72,90,129,108,580,https://img.pokemondb.net/sprites/sword-shield/icon/virizion.png
+742,641,Incarnate Forme,['Flying'],79,115,70,125,80,111,580,https://img.pokemondb.net/sprites/sword-shield/icon/tornadus-incarnate.png
+743,641,Therian Forme,['Flying'],79,100,80,110,90,121,580,https://img.pokemondb.net/sprites/sword-shield/icon/tornadus-therian.png
+744,642,Incarnate Forme,"['Electric', 'Flying']",79,115,70,125,80,111,580,https://img.pokemondb.net/sprites/sword-shield/icon/thundurus-incarnate.png
+745,642,Therian Forme,"['Electric', 'Flying']",79,105,70,145,80,101,580,https://img.pokemondb.net/sprites/sword-shield/icon/thundurus-therian.png
+746,643,Reshiram,"['Dragon', 'Fire']",100,120,100,150,120,90,680,https://img.pokemondb.net/sprites/sword-shield/icon/reshiram.png
+747,644,Zekrom,"['Dragon', 'Electric']",100,150,120,120,100,90,680,https://img.pokemondb.net/sprites/sword-shield/icon/zekrom.png
+748,645,Incarnate Forme,"['Ground', 'Flying']",89,125,90,115,80,101,600,https://img.pokemondb.net/sprites/sword-shield/icon/landorus-incarnate.png
+749,645,Therian Forme,"['Ground', 'Flying']",89,145,90,105,80,91,600,https://img.pokemondb.net/sprites/sword-shield/icon/landorus-therian.png
+750,646,Kyurem,"['Dragon', 'Ice']",125,130,90,130,90,95,660,https://img.pokemondb.net/sprites/sword-shield/icon/kyurem.png
+751,646,Black Kyurem,"['Dragon', 'Ice']",125,170,100,120,90,95,700,https://img.pokemondb.net/sprites/sword-shield/icon/kyurem-black.png
+752,646,White Kyurem,"['Dragon', 'Ice']",125,120,90,170,100,95,700,https://img.pokemondb.net/sprites/sword-shield/icon/kyurem-white.png
+753,647,Ordinary Forme,"['Water', 'Fighting']",91,72,90,129,90,108,580,https://img.pokemondb.net/sprites/sword-shield/icon/keldeo-ordinary.png
+754,647,Resolute Forme,"['Water', 'Fighting']",91,72,90,129,90,108,580,https://img.pokemondb.net/sprites/sword-shield/icon/keldeo-resolute.png
+755,648,Aria Forme,"['Normal', 'Psychic']",100,77,77,128,128,90,600,https://img.pokemondb.net/sprites/sword-shield/icon/meloetta-aria.png
+756,648,Pirouette Forme,"['Normal', 'Fighting']",100,128,90,77,77,128,600,https://img.pokemondb.net/sprites/sword-shield/icon/meloetta-pirouette.png
+757,649,Genesect,"['Bug', 'Steel']",71,120,95,120,95,99,600,https://img.pokemondb.net/sprites/sword-shield/icon/genesect.png
+758,650,Chespin,['Grass'],56,61,65,48,45,38,313,https://img.pokemondb.net/sprites/sword-shield/icon/chespin.png
+759,651,Quilladin,['Grass'],61,78,95,56,58,57,405,https://img.pokemondb.net/sprites/sword-shield/icon/quilladin.png
+760,652,Chesnaught,"['Grass', 'Fighting']",88,107,122,74,75,64,530,https://img.pokemondb.net/sprites/sword-shield/icon/chesnaught.png
+761,653,Fennekin,['Fire'],40,45,40,62,60,60,307,https://img.pokemondb.net/sprites/sword-shield/icon/fennekin.png
+762,654,Braixen,['Fire'],59,59,58,90,70,73,409,https://img.pokemondb.net/sprites/sword-shield/icon/braixen.png
+763,655,Delphox,"['Fire', 'Psychic']",75,69,72,114,100,104,534,https://img.pokemondb.net/sprites/sword-shield/icon/delphox.png
+764,656,Froakie,['Water'],41,56,40,62,44,71,314,https://img.pokemondb.net/sprites/sword-shield/icon/froakie.png
+765,657,Frogadier,['Water'],54,63,52,83,56,97,405,https://img.pokemondb.net/sprites/sword-shield/icon/frogadier.png
+766,658,Greninja,"['Water', 'Dark']",72,95,67,103,71,122,530,https://img.pokemondb.net/sprites/sword-shield/icon/greninja.png
+767,658,Ash-Greninja,"['Water', 'Dark']",72,145,67,153,71,132,640,https://img.pokemondb.net/sprites/sword-shield/icon/greninja-ash.png
+768,659,Bunnelby,['Normal'],38,36,38,32,36,57,237,https://img.pokemondb.net/sprites/sword-shield/icon/bunnelby.png
+769,660,Diggersby,"['Normal', 'Ground']",85,56,77,50,77,78,423,https://img.pokemondb.net/sprites/sword-shield/icon/diggersby.png
+770,661,Fletchling,"['Normal', 'Flying']",45,50,43,40,38,62,278,https://img.pokemondb.net/sprites/sword-shield/icon/fletchling.png
+771,662,Fletchinder,"['Fire', 'Flying']",62,73,55,56,52,84,382,https://img.pokemondb.net/sprites/sword-shield/icon/fletchinder.png
+772,663,Talonflame,"['Fire', 'Flying']",78,81,71,74,69,126,499,https://img.pokemondb.net/sprites/sword-shield/icon/talonflame.png
+773,664,Scatterbug,['Bug'],38,35,40,27,25,35,200,https://img.pokemondb.net/sprites/sword-shield/icon/scatterbug.png
+774,665,Spewpa,['Bug'],45,22,60,27,30,29,213,https://img.pokemondb.net/sprites/sword-shield/icon/spewpa.png
+775,666,Vivillon,"['Bug', 'Flying']",80,52,50,90,50,89,411,https://img.pokemondb.net/sprites/sword-shield/icon/vivillon.png
+776,667,Litleo,"['Fire', 'Normal']",62,50,58,73,54,72,369,https://img.pokemondb.net/sprites/sword-shield/icon/litleo.png
+777,668,Pyroar,"['Fire', 'Normal']",86,68,72,109,66,106,507,https://img.pokemondb.net/sprites/sword-shield/icon/pyroar.png
+778,669,Flabébé,['Fairy'],44,38,39,61,79,42,303,https://img.pokemondb.net/sprites/sword-shield/icon/flabebe.png
+779,670,Floette,['Fairy'],54,45,47,75,98,52,371,https://img.pokemondb.net/sprites/sword-shield/icon/floette.png
+780,671,Florges,['Fairy'],78,65,68,112,154,75,552,https://img.pokemondb.net/sprites/sword-shield/icon/florges.png
+781,672,Skiddo,['Grass'],66,65,48,62,57,52,350,https://img.pokemondb.net/sprites/sword-shield/icon/skiddo.png
+782,673,Gogoat,['Grass'],123,100,62,97,81,68,531,https://img.pokemondb.net/sprites/sword-shield/icon/gogoat.png
+783,674,Pancham,['Fighting'],67,82,62,46,48,43,348,https://img.pokemondb.net/sprites/sword-shield/icon/pancham.png
+784,675,Pangoro,"['Fighting', 'Dark']",95,124,78,69,71,58,495,https://img.pokemondb.net/sprites/sword-shield/icon/pangoro.png
+785,676,Furfrou,['Normal'],75,80,60,65,90,102,472,https://img.pokemondb.net/sprites/sword-shield/icon/furfrou.png
+786,677,Espurr,['Psychic'],62,48,54,63,60,68,355,https://img.pokemondb.net/sprites/sword-shield/icon/espurr.png
+787,678,Male,['Psychic'],74,48,76,83,81,104,466,https://img.pokemondb.net/sprites/sword-shield/icon/meowstic-male.png
+788,678,Female,['Psychic'],74,48,76,83,81,104,466,https://img.pokemondb.net/sprites/sword-shield/icon/meowstic-female.png
+789,679,Honedge,"['Steel', 'Ghost']",45,80,100,35,37,28,325,https://img.pokemondb.net/sprites/sword-shield/icon/honedge.png
+790,680,Doublade,"['Steel', 'Ghost']",59,110,150,45,49,35,448,https://img.pokemondb.net/sprites/sword-shield/icon/doublade.png
+791,681,Shield Forme,"['Steel', 'Ghost']",60,50,140,50,140,60,500,https://img.pokemondb.net/sprites/sword-shield/icon/aegislash-shield.png
+792,681,Blade Forme,"['Steel', 'Ghost']",60,140,50,140,50,60,500,https://img.pokemondb.net/sprites/sword-shield/icon/aegislash-blade.png
+793,682,Spritzee,['Fairy'],78,52,60,63,65,23,341,https://img.pokemondb.net/sprites/sword-shield/icon/spritzee.png
+794,683,Aromatisse,['Fairy'],101,72,72,99,89,29,462,https://img.pokemondb.net/sprites/sword-shield/icon/aromatisse.png
+795,684,Swirlix,['Fairy'],62,48,66,59,57,49,341,https://img.pokemondb.net/sprites/sword-shield/icon/swirlix.png
+796,685,Slurpuff,['Fairy'],82,80,86,85,75,72,480,https://img.pokemondb.net/sprites/sword-shield/icon/slurpuff.png
+797,686,Inkay,"['Dark', 'Psychic']",53,54,53,37,46,45,288,https://img.pokemondb.net/sprites/sword-shield/icon/inkay.png
+798,687,Malamar,"['Dark', 'Psychic']",86,92,88,68,75,73,482,https://img.pokemondb.net/sprites/sword-shield/icon/malamar.png
+799,688,Binacle,"['Rock', 'Water']",42,52,67,39,56,50,306,https://img.pokemondb.net/sprites/sword-shield/icon/binacle.png
+800,689,Barbaracle,"['Rock', 'Water']",72,105,115,54,86,68,500,https://img.pokemondb.net/sprites/sword-shield/icon/barbaracle.png
+801,690,Skrelp,"['Poison', 'Water']",50,60,60,60,60,30,320,https://img.pokemondb.net/sprites/sword-shield/icon/skrelp.png
+802,691,Dragalge,"['Poison', 'Dragon']",65,75,90,97,123,44,494,https://img.pokemondb.net/sprites/sword-shield/icon/dragalge.png
+803,692,Clauncher,['Water'],50,53,62,58,63,44,330,https://img.pokemondb.net/sprites/sword-shield/icon/clauncher.png
+804,693,Clawitzer,['Water'],71,73,88,120,89,59,500,https://img.pokemondb.net/sprites/sword-shield/icon/clawitzer.png
+805,694,Helioptile,"['Electric', 'Normal']",44,38,33,61,43,70,289,https://img.pokemondb.net/sprites/sword-shield/icon/helioptile.png
+806,695,Heliolisk,"['Electric', 'Normal']",62,55,52,109,94,109,481,https://img.pokemondb.net/sprites/sword-shield/icon/heliolisk.png
+807,696,Tyrunt,"['Rock', 'Dragon']",58,89,77,45,45,48,362,https://img.pokemondb.net/sprites/sword-shield/icon/tyrunt.png
+808,697,Tyrantrum,"['Rock', 'Dragon']",82,121,119,69,59,71,521,https://img.pokemondb.net/sprites/sword-shield/icon/tyrantrum.png
+809,698,Amaura,"['Rock', 'Ice']",77,59,50,67,63,46,362,https://img.pokemondb.net/sprites/sword-shield/icon/amaura.png
+810,699,Aurorus,"['Rock', 'Ice']",123,77,72,99,92,58,521,https://img.pokemondb.net/sprites/sword-shield/icon/aurorus.png
+811,700,Sylveon,['Fairy'],95,65,65,110,130,60,525,https://img.pokemondb.net/sprites/sword-shield/icon/sylveon.png
+812,701,Hawlucha,"['Fighting', 'Flying']",78,92,75,74,63,118,500,https://img.pokemondb.net/sprites/sword-shield/icon/hawlucha.png
+813,702,Dedenne,"['Electric', 'Fairy']",67,58,57,81,67,101,431,https://img.pokemondb.net/sprites/sword-shield/icon/dedenne.png
+814,703,Carbink,"['Rock', 'Fairy']",50,50,150,50,150,50,500,https://img.pokemondb.net/sprites/sword-shield/icon/carbink.png
+815,704,Goomy,['Dragon'],45,50,35,55,75,40,300,https://img.pokemondb.net/sprites/sword-shield/icon/goomy.png
+816,705,Sliggoo,['Dragon'],68,75,53,83,113,60,452,https://img.pokemondb.net/sprites/sword-shield/icon/sliggoo.png
+817,706,Goodra,['Dragon'],90,100,70,110,150,80,600,https://img.pokemondb.net/sprites/sword-shield/icon/goodra.png
+818,707,Klefki,"['Steel', 'Fairy']",57,80,91,80,87,75,470,https://img.pokemondb.net/sprites/sword-shield/icon/klefki.png
+819,708,Phantump,"['Ghost', 'Grass']",43,70,48,50,60,38,309,https://img.pokemondb.net/sprites/sword-shield/icon/phantump.png
+820,709,Trevenant,"['Ghost', 'Grass']",85,110,76,65,82,56,474,https://img.pokemondb.net/sprites/sword-shield/icon/trevenant.png
+821,710,Average Size,"['Ghost', 'Grass']",49,66,70,44,55,51,335,https://img.pokemondb.net/sprites/sword-shield/icon/pumpkaboo-average.png
+822,710,Small Size,"['Ghost', 'Grass']",44,66,70,44,55,56,335,https://img.pokemondb.net/sprites/sword-shield/icon/pumpkaboo-small.png
+823,710,Large Size,"['Ghost', 'Grass']",54,66,70,44,55,46,335,https://img.pokemondb.net/sprites/sword-shield/icon/pumpkaboo-large.png
+824,710,Super Size,"['Ghost', 'Grass']",59,66,70,44,55,41,335,https://img.pokemondb.net/sprites/sword-shield/icon/pumpkaboo-super.png
+825,711,Average Size,"['Ghost', 'Grass']",65,90,122,58,75,84,494,https://img.pokemondb.net/sprites/sword-shield/icon/gourgeist-average.png
+826,711,Small Size,"['Ghost', 'Grass']",55,85,122,58,75,99,494,https://img.pokemondb.net/sprites/sword-shield/icon/gourgeist-small.png
+827,711,Large Size,"['Ghost', 'Grass']",75,95,122,58,75,69,494,https://img.pokemondb.net/sprites/sword-shield/icon/gourgeist-large.png
+828,711,Super Size,"['Ghost', 'Grass']",85,100,122,58,75,54,494,https://img.pokemondb.net/sprites/sword-shield/icon/gourgeist-super.png
+829,712,Bergmite,['Ice'],55,69,85,32,35,28,304,https://img.pokemondb.net/sprites/sword-shield/icon/bergmite.png
+830,713,Avalugg,['Ice'],95,117,184,44,46,28,514,https://img.pokemondb.net/sprites/sword-shield/icon/avalugg.png
+831,714,Noibat,"['Flying', 'Dragon']",40,30,35,45,40,55,245,https://img.pokemondb.net/sprites/sword-shield/icon/noibat.png
+832,715,Noivern,"['Flying', 'Dragon']",85,70,80,97,80,123,535,https://img.pokemondb.net/sprites/sword-shield/icon/noivern.png
+833,716,Xerneas,['Fairy'],126,131,95,131,98,99,680,https://img.pokemondb.net/sprites/sword-shield/icon/xerneas.png
+834,717,Yveltal,"['Dark', 'Flying']",126,131,95,131,98,99,680,https://img.pokemondb.net/sprites/sword-shield/icon/yveltal.png
+835,718,50% Forme,"['Dragon', 'Ground']",108,100,121,81,95,95,600,https://img.pokemondb.net/sprites/sword-shield/icon/zygarde-50.png
+836,718,10% Forme,"['Dragon', 'Ground']",54,100,71,61,85,115,486,https://img.pokemondb.net/sprites/sword-shield/icon/zygarde-10.png
+837,718,Complete Forme,"['Dragon', 'Ground']",216,100,121,91,95,85,708,https://img.pokemondb.net/sprites/sword-shield/icon/zygarde-complete.png
+838,719,Diancie,"['Rock', 'Fairy']",50,100,150,100,150,50,600,https://img.pokemondb.net/sprites/sword-shield/icon/diancie.png
+839,719,Mega Diancie,"['Rock', 'Fairy']",50,160,110,160,110,110,700,https://img.pokemondb.net/sprites/sword-shield/icon/diancie-mega.png
+840,720,Hoopa Confined,"['Psychic', 'Ghost']",80,110,60,150,130,70,600,https://img.pokemondb.net/sprites/sword-shield/icon/hoopa-confined.png
+841,720,Hoopa Unbound,"['Psychic', 'Dark']",80,160,60,170,130,80,680,https://img.pokemondb.net/sprites/sword-shield/icon/hoopa-unbound.png
+842,721,Volcanion,"['Fire', 'Water']",80,110,120,130,90,70,600,https://img.pokemondb.net/sprites/sword-shield/icon/volcanion.png
+843,722,Rowlet,"['Grass', 'Flying']",68,55,55,50,50,42,320,https://img.pokemondb.net/sprites/sword-shield/icon/rowlet.png
+844,723,Dartrix,"['Grass', 'Flying']",78,75,75,70,70,52,420,https://img.pokemondb.net/sprites/sword-shield/icon/dartrix.png
+845,724,Decidueye,"['Grass', 'Ghost']",78,107,75,100,100,70,530,https://img.pokemondb.net/sprites/sword-shield/icon/decidueye.png
+846,725,Litten,['Fire'],45,65,40,60,40,70,320,https://img.pokemondb.net/sprites/sword-shield/icon/litten.png
+847,726,Torracat,['Fire'],65,85,50,80,50,90,420,https://img.pokemondb.net/sprites/sword-shield/icon/torracat.png
+848,727,Incineroar,"['Fire', 'Dark']",95,115,90,80,90,60,530,https://img.pokemondb.net/sprites/sword-shield/icon/incineroar.png
+849,728,Popplio,['Water'],50,54,54,66,56,40,320,https://img.pokemondb.net/sprites/sword-shield/icon/popplio.png
+850,729,Brionne,['Water'],60,69,69,91,81,50,420,https://img.pokemondb.net/sprites/sword-shield/icon/brionne.png
+851,730,Primarina,"['Water', 'Fairy']",80,74,74,126,116,60,530,https://img.pokemondb.net/sprites/sword-shield/icon/primarina.png
+852,731,Pikipek,"['Normal', 'Flying']",35,75,30,30,30,65,265,https://img.pokemondb.net/sprites/sword-shield/icon/pikipek.png
+853,732,Trumbeak,"['Normal', 'Flying']",55,85,50,40,50,75,355,https://img.pokemondb.net/sprites/sword-shield/icon/trumbeak.png
+854,733,Toucannon,"['Normal', 'Flying']",80,120,75,75,75,60,485,https://img.pokemondb.net/sprites/sword-shield/icon/toucannon.png
+855,734,Yungoos,['Normal'],48,70,30,30,30,45,253,https://img.pokemondb.net/sprites/sword-shield/icon/yungoos.png
+856,735,Gumshoos,['Normal'],88,110,60,55,60,45,418,https://img.pokemondb.net/sprites/sword-shield/icon/gumshoos.png
+857,736,Grubbin,['Bug'],47,62,45,55,45,46,300,https://img.pokemondb.net/sprites/sword-shield/icon/grubbin.png
+858,737,Charjabug,"['Bug', 'Electric']",57,82,95,55,75,36,400,https://img.pokemondb.net/sprites/sword-shield/icon/charjabug.png
+859,738,Vikavolt,"['Bug', 'Electric']",77,70,90,145,75,43,500,https://img.pokemondb.net/sprites/sword-shield/icon/vikavolt.png
+860,739,Crabrawler,['Fighting'],47,82,57,42,47,63,338,https://img.pokemondb.net/sprites/sword-shield/icon/crabrawler.png
+861,740,Crabominable,"['Fighting', 'Ice']",97,132,77,62,67,43,478,https://img.pokemondb.net/sprites/sword-shield/icon/crabominable.png
+862,741,Baile Style,"['Fire', 'Flying']",75,70,70,98,70,93,476,https://img.pokemondb.net/sprites/sword-shield/icon/oricorio-baile.png
+863,741,Pom-Pom Style,"['Electric', 'Flying']",75,70,70,98,70,93,476,https://img.pokemondb.net/sprites/sword-shield/icon/oricorio-pom-pom.png
+864,741,Pa'u Style,"['Psychic', 'Flying']",75,70,70,98,70,93,476,https://img.pokemondb.net/sprites/sword-shield/icon/oricorio-pau.png
+865,741,Sensu Style,"['Ghost', 'Flying']",75,70,70,98,70,93,476,https://img.pokemondb.net/sprites/sword-shield/icon/oricorio-sensu.png
+866,742,Cutiefly,"['Bug', 'Fairy']",40,45,40,55,40,84,304,https://img.pokemondb.net/sprites/sword-shield/icon/cutiefly.png
+867,743,Ribombee,"['Bug', 'Fairy']",60,55,60,95,70,124,464,https://img.pokemondb.net/sprites/sword-shield/icon/ribombee.png
+868,744,Rockruff,['Rock'],45,65,40,30,40,60,280,https://img.pokemondb.net/sprites/sword-shield/icon/rockruff.png
+869,744,Own Tempo Rockruff,['Rock'],45,65,40,30,40,60,280,https://img.pokemondb.net/sprites/sword-shield/icon/rockruff-own-tempo.png
+870,745,Midday Form,['Rock'],75,115,65,55,65,112,487,https://img.pokemondb.net/sprites/sword-shield/icon/lycanroc-midday.png
+871,745,Midnight Form,['Rock'],85,115,75,55,75,82,487,https://img.pokemondb.net/sprites/sword-shield/icon/lycanroc-midnight.png
+872,745,Dusk Form,['Rock'],75,117,65,55,65,110,487,https://img.pokemondb.net/sprites/sword-shield/icon/lycanroc-dusk.png
+873,746,Solo Form,['Water'],45,20,20,25,25,40,175,https://img.pokemondb.net/sprites/sword-shield/icon/wishiwashi-solo.png
+874,746,School Form,['Water'],45,140,130,140,135,30,620,https://img.pokemondb.net/sprites/sword-shield/icon/wishiwashi-school.png
+875,747,Mareanie,"['Poison', 'Water']",50,53,62,43,52,45,305,https://img.pokemondb.net/sprites/sword-shield/icon/mareanie.png
+876,748,Toxapex,"['Poison', 'Water']",50,63,152,53,142,35,495,https://img.pokemondb.net/sprites/sword-shield/icon/toxapex.png
+877,749,Mudbray,['Ground'],70,100,70,45,55,45,385,https://img.pokemondb.net/sprites/sword-shield/icon/mudbray.png
+878,750,Mudsdale,['Ground'],100,125,100,55,85,35,500,https://img.pokemondb.net/sprites/sword-shield/icon/mudsdale.png
+879,751,Dewpider,"['Water', 'Bug']",38,40,52,40,72,27,269,https://img.pokemondb.net/sprites/sword-shield/icon/dewpider.png
+880,752,Araquanid,"['Water', 'Bug']",68,70,92,50,132,42,454,https://img.pokemondb.net/sprites/sword-shield/icon/araquanid.png
+881,753,Fomantis,['Grass'],40,55,35,50,35,35,250,https://img.pokemondb.net/sprites/sword-shield/icon/fomantis.png
+882,754,Lurantis,['Grass'],70,105,90,80,90,45,480,https://img.pokemondb.net/sprites/sword-shield/icon/lurantis.png
+883,755,Morelull,"['Grass', 'Fairy']",40,35,55,65,75,15,285,https://img.pokemondb.net/sprites/sword-shield/icon/morelull.png
+884,756,Shiinotic,"['Grass', 'Fairy']",60,45,80,90,100,30,405,https://img.pokemondb.net/sprites/sword-shield/icon/shiinotic.png
+885,757,Salandit,"['Poison', 'Fire']",48,44,40,71,40,77,320,https://img.pokemondb.net/sprites/sword-shield/icon/salandit.png
+886,758,Salazzle,"['Poison', 'Fire']",68,64,60,111,60,117,480,https://img.pokemondb.net/sprites/sword-shield/icon/salazzle.png
+887,759,Stufful,"['Normal', 'Fighting']",70,75,50,45,50,50,340,https://img.pokemondb.net/sprites/sword-shield/icon/stufful.png
+888,760,Bewear,"['Normal', 'Fighting']",120,125,80,55,60,60,500,https://img.pokemondb.net/sprites/sword-shield/icon/bewear.png
+889,761,Bounsweet,['Grass'],42,30,38,30,38,32,210,https://img.pokemondb.net/sprites/sword-shield/icon/bounsweet.png
+890,762,Steenee,['Grass'],52,40,48,40,48,62,290,https://img.pokemondb.net/sprites/sword-shield/icon/steenee.png
+891,763,Tsareena,['Grass'],72,120,98,50,98,72,510,https://img.pokemondb.net/sprites/sword-shield/icon/tsareena.png
+892,764,Comfey,['Fairy'],51,52,90,82,110,100,485,https://img.pokemondb.net/sprites/sword-shield/icon/comfey.png
+893,765,Oranguru,"['Normal', 'Psychic']",90,60,80,90,110,60,490,https://img.pokemondb.net/sprites/sword-shield/icon/oranguru.png
+894,766,Passimian,['Fighting'],100,120,90,40,60,80,490,https://img.pokemondb.net/sprites/sword-shield/icon/passimian.png
+895,767,Wimpod,"['Bug', 'Water']",25,35,40,20,30,80,230,https://img.pokemondb.net/sprites/sword-shield/icon/wimpod.png
+896,768,Golisopod,"['Bug', 'Water']",75,125,140,60,90,40,530,https://img.pokemondb.net/sprites/sword-shield/icon/golisopod.png
+897,769,Sandygast,"['Ghost', 'Ground']",55,55,80,70,45,15,320,https://img.pokemondb.net/sprites/sword-shield/icon/sandygast.png
+898,770,Palossand,"['Ghost', 'Ground']",85,75,110,100,75,35,480,https://img.pokemondb.net/sprites/sword-shield/icon/palossand.png
+899,771,Pyukumuku,['Water'],55,60,130,30,130,5,410,https://img.pokemondb.net/sprites/sword-shield/icon/pyukumuku.png
+900,772,Type: Null,['Normal'],95,95,95,95,95,59,534,https://img.pokemondb.net/sprites/sword-shield/icon/type-null.png
+901,773,Silvally,['Normal'],95,95,95,95,95,95,570,https://img.pokemondb.net/sprites/sword-shield/icon/silvally.png
+902,774,Meteor Form,"['Rock', 'Flying']",60,60,100,60,100,60,440,https://img.pokemondb.net/sprites/sword-shield/icon/minior-meteor.png
+903,774,Core Form,"['Rock', 'Flying']",60,100,60,100,60,120,500,https://img.pokemondb.net/sprites/sword-shield/icon/minior-core.png
+904,775,Komala,['Normal'],65,115,65,75,95,65,480,https://img.pokemondb.net/sprites/sword-shield/icon/komala.png
+905,776,Turtonator,"['Fire', 'Dragon']",60,78,135,91,85,36,485,https://img.pokemondb.net/sprites/sword-shield/icon/turtonator.png
+906,777,Togedemaru,"['Electric', 'Steel']",65,98,63,40,73,96,435,https://img.pokemondb.net/sprites/sword-shield/icon/togedemaru.png
+907,778,Mimikyu,"['Ghost', 'Fairy']",55,90,80,50,105,96,476,https://img.pokemondb.net/sprites/sword-shield/icon/mimikyu.png
+908,779,Bruxish,"['Water', 'Psychic']",68,105,70,70,70,92,475,https://img.pokemondb.net/sprites/sword-shield/icon/bruxish.png
+909,780,Drampa,"['Normal', 'Dragon']",78,60,85,135,91,36,485,https://img.pokemondb.net/sprites/sword-shield/icon/drampa.png
+910,781,Dhelmise,"['Ghost', 'Grass']",70,131,100,86,90,40,517,https://img.pokemondb.net/sprites/sword-shield/icon/dhelmise.png
+911,782,Jangmo-o,['Dragon'],45,55,65,45,45,45,300,https://img.pokemondb.net/sprites/sword-shield/icon/jangmo-o.png
+912,783,Hakamo-o,"['Dragon', 'Fighting']",55,75,90,65,70,65,420,https://img.pokemondb.net/sprites/sword-shield/icon/hakamo-o.png
+913,784,Kommo-o,"['Dragon', 'Fighting']",75,110,125,100,105,85,600,https://img.pokemondb.net/sprites/sword-shield/icon/kommo-o.png
+914,785,Tapu Koko,"['Electric', 'Fairy']",70,115,85,95,75,130,570,https://img.pokemondb.net/sprites/sword-shield/icon/tapu-koko.png
+915,786,Tapu Lele,"['Psychic', 'Fairy']",70,85,75,130,115,95,570,https://img.pokemondb.net/sprites/sword-shield/icon/tapu-lele.png
+916,787,Tapu Bulu,"['Grass', 'Fairy']",70,130,115,85,95,75,570,https://img.pokemondb.net/sprites/sword-shield/icon/tapu-bulu.png
+917,788,Tapu Fini,"['Water', 'Fairy']",70,75,115,95,130,85,570,https://img.pokemondb.net/sprites/sword-shield/icon/tapu-fini.png
+918,789,Cosmog,['Psychic'],43,29,31,29,31,37,200,https://img.pokemondb.net/sprites/sword-shield/icon/cosmog.png
+919,790,Cosmoem,['Psychic'],43,29,131,29,131,37,400,https://img.pokemondb.net/sprites/sword-shield/icon/cosmoem.png
+920,791,Solgaleo,"['Psychic', 'Steel']",137,137,107,113,89,97,680,https://img.pokemondb.net/sprites/sword-shield/icon/solgaleo.png
+921,792,Lunala,"['Psychic', 'Ghost']",137,113,89,137,107,97,680,https://img.pokemondb.net/sprites/sword-shield/icon/lunala.png
+922,793,Nihilego,"['Rock', 'Poison']",109,53,47,127,131,103,570,https://img.pokemondb.net/sprites/sword-shield/icon/nihilego.png
+923,794,Buzzwole,"['Bug', 'Fighting']",107,139,139,53,53,79,570,https://img.pokemondb.net/sprites/sword-shield/icon/buzzwole.png
+924,795,Pheromosa,"['Bug', 'Fighting']",71,137,37,137,37,151,570,https://img.pokemondb.net/sprites/sword-shield/icon/pheromosa.png
+925,796,Xurkitree,['Electric'],83,89,71,173,71,83,570,https://img.pokemondb.net/sprites/sword-shield/icon/xurkitree.png
+926,797,Celesteela,"['Steel', 'Flying']",97,101,103,107,101,61,570,https://img.pokemondb.net/sprites/sword-shield/icon/celesteela.png
+927,798,Kartana,"['Grass', 'Steel']",59,181,131,59,31,109,570,https://img.pokemondb.net/sprites/sword-shield/icon/kartana.png
+928,799,Guzzlord,"['Dark', 'Dragon']",223,101,53,97,53,43,570,https://img.pokemondb.net/sprites/sword-shield/icon/guzzlord.png
+929,800,Necrozma,['Psychic'],97,107,101,127,89,79,600,https://img.pokemondb.net/sprites/sword-shield/icon/necrozma.png
+930,800,Dusk Mane Necrozma,"['Psychic', 'Steel']",97,157,127,113,109,77,680,https://img.pokemondb.net/sprites/sword-shield/icon/necrozma-dusk-mane.png
+931,800,Dawn Wings Necrozma,"['Psychic', 'Ghost']",97,113,109,157,127,77,680,https://img.pokemondb.net/sprites/sword-shield/icon/necrozma-dawn-wings.png
+932,800,Ultra Necrozma,"['Psychic', 'Dragon']",97,167,97,167,97,129,754,https://img.pokemondb.net/sprites/sword-shield/icon/necrozma-ultra.png
+933,801,Magearna,"['Steel', 'Fairy']",80,95,115,130,115,65,600,https://img.pokemondb.net/sprites/sword-shield/icon/magearna.png
+934,802,Marshadow,"['Fighting', 'Ghost']",90,125,80,90,90,125,600,https://img.pokemondb.net/sprites/sword-shield/icon/marshadow.png
+935,803,Poipole,['Poison'],67,73,67,73,67,73,420,https://img.pokemondb.net/sprites/sword-shield/icon/poipole.png
+936,804,Naganadel,"['Poison', 'Dragon']",73,73,73,127,73,121,540,https://img.pokemondb.net/sprites/sword-shield/icon/naganadel.png
+937,805,Stakataka,"['Rock', 'Steel']",61,131,211,53,101,13,570,https://img.pokemondb.net/sprites/sword-shield/icon/stakataka.png
+938,806,Blacephalon,"['Fire', 'Ghost']",53,127,53,151,79,107,570,https://img.pokemondb.net/sprites/sword-shield/icon/blacephalon.png
+939,807,Zeraora,['Electric'],88,112,75,102,80,143,600,https://img.pokemondb.net/sprites/sword-shield/icon/zeraora.png
+940,808,Meltan,['Steel'],46,65,65,55,35,34,300,https://img.pokemondb.net/sprites/sword-shield/icon/meltan.png
+941,809,Melmetal,['Steel'],135,143,143,80,65,34,600,https://img.pokemondb.net/sprites/sword-shield/icon/melmetal.png
+942,810,Grookey,['Grass'],50,65,50,40,40,65,310,https://img.pokemondb.net/sprites/sword-shield/icon/grookey.png
+943,811,Thwackey,['Grass'],70,85,70,55,60,80,420,https://img.pokemondb.net/sprites/sword-shield/icon/thwackey.png
+944,812,Rillaboom,['Grass'],100,125,90,60,70,85,530,https://img.pokemondb.net/sprites/sword-shield/icon/rillaboom.png
+945,813,Scorbunny,['Fire'],50,71,40,40,40,69,310,https://img.pokemondb.net/sprites/sword-shield/icon/scorbunny.png
+946,814,Raboot,['Fire'],65,86,60,55,60,94,420,https://img.pokemondb.net/sprites/sword-shield/icon/raboot.png
+947,815,Cinderace,['Fire'],80,116,75,65,75,119,530,https://img.pokemondb.net/sprites/sword-shield/icon/cinderace.png
+948,816,Sobble,['Water'],50,40,40,70,40,70,310,https://img.pokemondb.net/sprites/sword-shield/icon/sobble.png
+949,817,Drizzile,['Water'],65,60,55,95,55,90,420,https://img.pokemondb.net/sprites/sword-shield/icon/drizzile.png
+950,818,Inteleon,['Water'],70,85,65,125,65,120,530,https://img.pokemondb.net/sprites/sword-shield/icon/inteleon.png
+951,819,Skwovet,['Normal'],70,55,55,35,35,25,275,https://img.pokemondb.net/sprites/sword-shield/icon/skwovet.png
+952,820,Greedent,['Normal'],120,95,95,55,75,20,460,https://img.pokemondb.net/sprites/sword-shield/icon/greedent.png
+953,821,Rookidee,['Flying'],38,47,35,33,35,57,245,https://img.pokemondb.net/sprites/sword-shield/icon/rookidee.png
+954,822,Corvisquire,['Flying'],68,67,55,43,55,77,365,https://img.pokemondb.net/sprites/sword-shield/icon/corvisquire.png
+955,823,Corviknight,"['Flying', 'Steel']",98,87,105,53,85,67,495,https://img.pokemondb.net/sprites/sword-shield/icon/corviknight.png
+956,824,Blipbug,['Bug'],25,20,20,25,45,45,180,https://img.pokemondb.net/sprites/sword-shield/icon/blipbug.png
+957,825,Dottler,"['Bug', 'Psychic']",50,35,80,50,90,30,335,https://img.pokemondb.net/sprites/sword-shield/icon/dottler.png
+958,826,Orbeetle,"['Bug', 'Psychic']",60,45,110,80,120,90,505,https://img.pokemondb.net/sprites/sword-shield/icon/orbeetle.png
+959,827,Nickit,['Dark'],40,28,28,47,52,50,245,https://img.pokemondb.net/sprites/sword-shield/icon/nickit.png
+960,828,Thievul,['Dark'],70,58,58,87,92,90,455,https://img.pokemondb.net/sprites/sword-shield/icon/thievul.png
+961,829,Gossifleur,['Grass'],40,40,60,40,60,10,250,https://img.pokemondb.net/sprites/sword-shield/icon/gossifleur.png
+962,830,Eldegoss,['Grass'],60,50,90,80,120,60,460,https://img.pokemondb.net/sprites/sword-shield/icon/eldegoss.png
+963,831,Wooloo,['Normal'],42,40,55,40,45,48,270,https://img.pokemondb.net/sprites/sword-shield/icon/wooloo.png
+964,832,Dubwool,['Normal'],72,80,100,60,90,88,490,https://img.pokemondb.net/sprites/sword-shield/icon/dubwool.png
+965,833,Chewtle,['Water'],50,64,50,38,38,44,284,https://img.pokemondb.net/sprites/sword-shield/icon/chewtle.png
+966,834,Drednaw,"['Water', 'Rock']",90,115,90,48,68,74,485,https://img.pokemondb.net/sprites/sword-shield/icon/drednaw.png
+967,835,Yamper,['Electric'],59,45,50,40,50,26,270,https://img.pokemondb.net/sprites/sword-shield/icon/yamper.png
+968,836,Boltund,['Electric'],69,90,60,90,60,121,490,https://img.pokemondb.net/sprites/sword-shield/icon/boltund.png
+969,837,Rolycoly,['Rock'],30,40,50,40,50,30,240,https://img.pokemondb.net/sprites/sword-shield/icon/rolycoly.png
+970,838,Carkol,"['Rock', 'Fire']",80,60,90,60,70,50,410,https://img.pokemondb.net/sprites/sword-shield/icon/carkol.png
+971,839,Coalossal,"['Rock', 'Fire']",110,80,120,80,90,30,510,https://img.pokemondb.net/sprites/sword-shield/icon/coalossal.png
+972,840,Applin,"['Grass', 'Dragon']",40,40,80,40,40,20,260,https://img.pokemondb.net/sprites/sword-shield/icon/applin.png
+973,841,Flapple,"['Grass', 'Dragon']",70,110,80,95,60,70,485,https://img.pokemondb.net/sprites/sword-shield/icon/flapple.png
+974,842,Appletun,"['Grass', 'Dragon']",110,85,80,100,80,30,485,https://img.pokemondb.net/sprites/sword-shield/icon/appletun.png
+975,843,Silicobra,['Ground'],52,57,75,35,50,46,315,https://img.pokemondb.net/sprites/sword-shield/icon/silicobra.png
+976,844,Sandaconda,['Ground'],72,107,125,65,70,71,510,https://img.pokemondb.net/sprites/sword-shield/icon/sandaconda.png
+977,845,Cramorant,"['Flying', 'Water']",70,85,55,85,95,85,475,https://img.pokemondb.net/sprites/sword-shield/icon/cramorant.png
+978,846,Arrokuda,['Water'],41,63,40,40,30,66,280,https://img.pokemondb.net/sprites/sword-shield/icon/arrokuda.png
+979,847,Barraskewda,['Water'],61,123,60,60,50,136,490,https://img.pokemondb.net/sprites/sword-shield/icon/barraskewda.png
+980,848,Toxel,"['Electric', 'Poison']",40,38,35,54,35,40,242,https://img.pokemondb.net/sprites/sword-shield/icon/toxel.png
+981,849,Low Key Form,"['Electric', 'Poison']",75,98,70,114,70,75,502,https://img.pokemondb.net/sprites/sword-shield/icon/toxtricity-low-key.png
+982,849,Amped Form,"['Electric', 'Poison']",75,98,70,114,70,75,502,https://img.pokemondb.net/sprites/sword-shield/icon/toxtricity-amped.png
+983,850,Sizzlipede,"['Fire', 'Bug']",50,65,45,50,50,45,305,https://img.pokemondb.net/sprites/sword-shield/icon/sizzlipede.png
+984,851,Centiskorch,"['Fire', 'Bug']",100,115,65,90,90,65,525,https://img.pokemondb.net/sprites/sword-shield/icon/centiskorch.png
+985,852,Clobbopus,['Fighting'],50,68,60,50,50,32,310,https://img.pokemondb.net/sprites/sword-shield/icon/clobbopus.png
+986,853,Grapploct,['Fighting'],80,118,90,70,80,42,480,https://img.pokemondb.net/sprites/sword-shield/icon/grapploct.png
+987,854,Sinistea,['Ghost'],40,45,45,74,54,50,308,https://img.pokemondb.net/sprites/sword-shield/icon/sinistea.png
+988,855,Polteageist,['Ghost'],60,65,65,134,114,70,508,https://img.pokemondb.net/sprites/sword-shield/icon/polteageist.png
+989,856,Hatenna,['Psychic'],42,30,45,56,53,39,265,https://img.pokemondb.net/sprites/sword-shield/icon/hatenna.png
+990,857,Hattrem,['Psychic'],57,40,65,86,73,49,370,https://img.pokemondb.net/sprites/sword-shield/icon/hattrem.png
+991,858,Hatterene,"['Psychic', 'Fairy']",57,90,95,136,103,29,510,https://img.pokemondb.net/sprites/sword-shield/icon/hatterene.png
+992,859,Impidimp,"['Dark', 'Fairy']",45,45,30,55,40,50,265,https://img.pokemondb.net/sprites/sword-shield/icon/impidimp.png
+993,860,Morgrem,"['Dark', 'Fairy']",65,60,45,75,55,70,370,https://img.pokemondb.net/sprites/sword-shield/icon/morgrem.png
+994,861,Grimmsnarl,"['Dark', 'Fairy']",95,120,65,95,75,60,510,https://img.pokemondb.net/sprites/sword-shield/icon/grimmsnarl.png
+995,862,Obstagoon,"['Dark', 'Normal']",93,90,101,60,81,95,520,https://img.pokemondb.net/sprites/sword-shield/icon/obstagoon.png
+996,863,Perrserker,['Steel'],70,110,100,50,60,50,440,https://img.pokemondb.net/sprites/sword-shield/icon/perrserker.png
+997,864,Cursola,['Ghost'],60,95,50,145,130,30,510,https://img.pokemondb.net/sprites/sword-shield/icon/cursola.png
+998,865,Sirfetch'd,['Fighting'],62,135,95,68,82,65,507,https://img.pokemondb.net/sprites/sword-shield/icon/sirfetchd.png
+999,866,Mr. Rime,"['Psychic', 'Ice']",80,85,75,110,100,70,520,https://img.pokemondb.net/sprites/sword-shield/icon/mr-rime.png
+1000,867,Runerigus,"['Ground', 'Ghost']",58,95,145,50,105,30,483,https://img.pokemondb.net/sprites/sword-shield/icon/runerigus.png
+1001,868,Milcery,['Fairy'],45,40,40,50,61,34,270,https://img.pokemondb.net/sprites/sword-shield/icon/milcery.png
+1002,869,Alcremie,['Fairy'],65,60,75,110,121,64,495,https://img.pokemondb.net/sprites/sword-shield/icon/alcremie.png
+1003,870,Falinks,['Fighting'],65,100,100,70,60,75,470,https://img.pokemondb.net/sprites/sword-shield/icon/falinks.png
+1004,871,Pincurchin,['Electric'],48,101,95,91,85,15,435,https://img.pokemondb.net/sprites/sword-shield/icon/pincurchin.png
+1005,872,Snom,"['Ice', 'Bug']",30,25,35,45,30,20,185,https://img.pokemondb.net/sprites/sword-shield/icon/snom.png
+1006,873,Frosmoth,"['Ice', 'Bug']",70,65,60,125,90,65,475,https://img.pokemondb.net/sprites/sword-shield/icon/frosmoth.png
+1007,874,Stonjourner,['Rock'],100,125,135,20,20,70,470,https://img.pokemondb.net/sprites/sword-shield/icon/stonjourner.png
+1008,875,Ice Face,['Ice'],75,80,110,65,90,50,470,https://img.pokemondb.net/sprites/sword-shield/icon/eiscue-ice.png
+1009,875,Noice Face,['Ice'],75,80,70,65,50,130,470,https://img.pokemondb.net/sprites/sword-shield/icon/eiscue-noice.png
+1010,876,Male,"['Psychic', 'Normal']",60,65,55,105,95,95,475,https://img.pokemondb.net/sprites/sword-shield/icon/indeedee-male.png
+1011,876,Female,"['Psychic', 'Normal']",70,55,65,95,105,85,475,https://img.pokemondb.net/sprites/sword-shield/icon/indeedee-female.png
+1012,877,Full Belly Mode,"['Electric', 'Dark']",58,95,58,70,58,97,436,https://img.pokemondb.net/sprites/sword-shield/icon/morpeko-full-belly.png
+1013,877,Hangry Mode,"['Electric', 'Dark']",58,95,58,70,58,97,436,https://img.pokemondb.net/sprites/sword-shield/icon/morpeko-hangry.png
+1014,878,Cufant,['Steel'],72,80,49,40,49,40,330,https://img.pokemondb.net/sprites/sword-shield/icon/cufant.png
+1015,879,Copperajah,['Steel'],122,130,69,80,69,30,500,https://img.pokemondb.net/sprites/sword-shield/icon/copperajah.png
+1016,880,Dracozolt,"['Electric', 'Dragon']",90,100,90,80,70,75,505,https://img.pokemondb.net/sprites/sword-shield/icon/dracozolt.png
+1017,881,Arctozolt,"['Electric', 'Ice']",90,100,90,90,80,55,505,https://img.pokemondb.net/sprites/sword-shield/icon/arctozolt.png
+1018,882,Dracovish,"['Water', 'Dragon']",90,90,100,70,80,75,505,https://img.pokemondb.net/sprites/sword-shield/icon/dracovish.png
+1019,883,Arctovish,"['Water', 'Ice']",90,90,100,80,90,55,505,https://img.pokemondb.net/sprites/sword-shield/icon/arctovish.png
+1020,884,Duraludon,"['Steel', 'Dragon']",70,95,115,120,50,85,535,https://img.pokemondb.net/sprites/sword-shield/icon/duraludon.png
+1021,885,Dreepy,"['Dragon', 'Ghost']",28,60,30,40,30,82,270,https://img.pokemondb.net/sprites/sword-shield/icon/dreepy.png
+1022,886,Drakloak,"['Dragon', 'Ghost']",68,80,50,60,50,102,410,https://img.pokemondb.net/sprites/sword-shield/icon/drakloak.png
+1023,887,Dragapult,"['Dragon', 'Ghost']",88,120,75,100,75,142,600,https://img.pokemondb.net/sprites/sword-shield/icon/dragapult.png
+1024,888,Crowned Sword,"['Fairy', 'Steel']",92,170,115,80,115,148,720,https://img.pokemondb.net/sprites/sword-shield/icon/zacian-crowned.png
+1025,888,Hero of Many Battles,['Fairy'],92,130,115,80,115,138,670,https://img.pokemondb.net/sprites/sword-shield/icon/zacian-hero.png
+1026,889,Crowned Shield,"['Fighting', 'Steel']",92,130,145,80,145,128,720,https://img.pokemondb.net/sprites/sword-shield/icon/zamazenta-crowned.png
+1027,889,Hero of Many Battles,['Fighting'],92,130,115,80,115,138,670,https://img.pokemondb.net/sprites/sword-shield/icon/zamazenta-hero.png
+1028,890,Eternatus,"['Poison', 'Dragon']",140,85,95,145,95,130,690,https://img.pokemondb.net/sprites/sword-shield/icon/eternatus.png
+1029,890,Eternamax,"['Poison', 'Dragon']",255,115,250,125,250,130,1125,https://img.pokemondb.net/sprites/sword-shield/icon/eternatus-eternamax.png
+1030,891,Kubfu,['Fighting'],60,90,60,53,50,72,385,https://img.pokemondb.net/s.png
+1031,892,Single Strike Style,"['Fighting', 'Dark']",100,130,100,63,60,97,550,https://img.pokemondb.net/s.png
+1032,892,Rapid Strike Style,"['Fighting', 'Water']",100,130,100,63,60,97,550,https://img.pokemondb.net/s.png
+1033,893,Zarude,"['Dark', 'Grass']",105,120,105,70,95,105,600,https://img.pokemondb.net/s.png
